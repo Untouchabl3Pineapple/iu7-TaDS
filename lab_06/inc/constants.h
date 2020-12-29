@@ -1,0 +1,21 @@
+#ifndef __CONSTANTS_H__
+
+#define __CONSTANTS_H__
+
+#define ARGS_CONSTANT_SIZE 2
+#define FILE_NAME_SIZE 50
+
+#define OK 0
+#define PARSE_ARGS_ERROR -1
+#define FILE_OPEN_ERROR -2
+#define FILE_READING_ERROR -3
+#define COMPARE_COUNTER_ERROR -4
+#define EMPTY_FIELD -5
+#define HASH_TABLE_FILTER_ERROR -6
+#define SEARCH_NUMBER_ERROR -7
+#define NUMBER_COMPARE_ERROR -8
+#define EMPTY_TREE -9
+#define MENU_NUMBER_ERROR -10
+#define NO_DATA_ERROR -11
+
+#endif // __CONSTANTS_H__

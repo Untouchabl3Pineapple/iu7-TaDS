@@ -1,0 +1,2000 @@
+Borisov Valentin 77079517777 Aleksin 0 27 8 1985
+Kiselev Vadim 79021100147 Abakan 0 27 1 1982
+Kuzmin Vitalij 77715797822 Aleksin 1 Sanitar BMSTU
+Novikov Vitalij 79021100098 Apatity 1 Vrach BMSTU
+Kuznecov Vyacheslav 77027773690 Angarsk 1 Slesar MIT
+YAkovlev Vsevolod 77715797822 Anapa 1 Santehnik CRB
+Borisov Vlad 77770076977 Arzamas 1 Sanitar YANDEX
+Semenov Vlad 77027773690 Anapa 1 Slesar YANDEX
+Ivanov Vlad 77770076877 Asbest 0 22 10 1960
+Makarov Voldemar 77057163877 Arhangelsk 0 21 3 2019
+Egorov Vissarion 77017333190 Asbest 0 5 9 2015
+Egorov Vlad 77079517777 Anapa 0 15 7 1966
+Novikov Vladlen 77074909644 Apatity 1 Vrach MIT
+Makarov Veniamin 77019381234 Anapa 1 Uchitel BOMONKA
+Frolov Vyacheslav 77770076977 Anapa 1 Slesar BOMONKA
+Orlov Vlad 77787483377 Almetevsk 1 Slesar BOMONKA
+YAkovlev Vsevolod 77019381234 Arzamas 0 10 8 1979
+Borisov Voldemar 79021100147 Achinsk 0 5 11 1987
+Popov Vladislav 77772955554 Arhangelsk 0 2 10 1965
+Mihajlov Vladlen 77019381234 Aleksin 0 5 5 1985
+Novikov Vladlen 77077799795 Abakan 0 15 2 1969
+Aleksandrov Vilen 77715740077 Anapa 0 25 4 1958
+Fedorov Vyacheslav 79032478917 Balakovo 0 17 2 2000
+Frolov Vladlen 77770076877 Aleksandrov 0 25 7 1974
+Vasilev Viktor 79032478979 Angarsk 1 Uchitel MIT
+Morozov Veniamin 77772955554 Azov 0 15 8 1982
+Sergeev Vladimir 77019381234 Astrahan 1 Programmist UFC
+Fedorov Vyacheslav 77715797822 Apatity 0 8 10 1996
+Romanov Veniamin 79021100147 Armavir 0 24 8 1967
+Orlov Valentin 79032478979 Arhangelsk 1 Uchitel YANDEX
+Makarov Veniamin 77714927700 Arzamas 0 19 11 2009
+YAkovlev Vladislav 77770076977 Achinsk 1 Uchitel GOOGLE
+Zajcev Vikentij 79032478979 Balahna 1 Slesar ICPP
+Mihajlov Voldemar 77715797822 Armavir 0 10 10 2001
+Petrov Valentin 77057163877 Anapa 1 Volonter MIT
+Zajcev Vladislav 77770076877 Asbest 0 2 6 1995
+Zaharov Vasilij 77787483377 Apatity 0 14 12 1972
+Fedorov Vasilij 79032478917 Anapa 1 Sanitar ICPP
+Grigorev Vissarion 77770076977 Apatity 1 Uchitel ICPP
+Smirnov Veniamin 79021100098 Astrahan 1 Volonter MIT
+Borisov Vyacheslav 77079517777 Arhangelsk 1 Slesar MIT
+Kuzmin Voldemar 77057163877 Anapa 0 16 11 2011
+Zaharov Vladlen 77770076877 Aleksandrov 1 Slesar YANDEX
+Vasilev Veniamin 79021100099 Astrahan 1 Sanitar CRB
+Sergeev Vladislav 79032480839 Apatity 1 Santehnik UFC
+Zaharov Vlad 79032478979 Angarsk 0 24 3 1995
+Andreev Voldemar 79021100099 Abakan 0 14 11 1977
+Ivanov Viktor 77074909644 Asbest 0 11 11 1958
+Egorov Vladislav 77715740077 Abakan 0 29 12 1980
+Kuznecov Vsevolod 77770076977 Armavir 0 23 12 1993
+Vasilev Vladislav 77715740077 Abakan 0 26 1 2020
+Korolev Vissarion 77770076977 Arzamas 1 Uchitel MIT
+Nikolaev Vitalij 79021100098 Balakovo 1 Uchitel BMSTU
+Semenov Vadim 79032478979 Aleksin 1 Slesar UFC
+Makarov Valerij 77079517777 Balahna 1 Programmist MIT
+Novikov Vyacheslav 77715797822 Arzamas 1 Vrach CRB
+Fedorov Vikentij 77027773690 Armavir 0 28 10 2009
+Gusev Vasilij 77772955554 Astrahan 0 20 9 1979
+Nikolaev Viktor 79021100099 Aleksin 0 20 2 1972
+Zaharov Viktor 77787483377 Achinsk 1 Programmist ICPP
+Zaharov Veniamin 77074909644 Achinsk 0 11 1 1957
+Ivanov Valerij 77770076877 Abakan 1 Volonter YANDEX
+Alekseev Vladislav 77079517777 Aleksin 0 20 6 2001
+YAkovlev Vyacheslav 79032478845 Arzamas 0 15 8 1953
+Kiselev Vikentij 79021100098 Asbest 0 13 4 1991
+Makarov Vladlen 77772955554 Arhangelsk 0 1 7 1998
+Sokolov Vladislav 77772955554 Aleksin 1 Uchitel UFC
+Andreev Vilen 79032478979 Apatity 0 21 8 1969
+Fedorov Vladimir 79021100098 Aleksin 0 7 1 1993
+Kuzmin Vladislav 77770076877 Balakovo 0 12 4 1957
+Makarov Valerij 79032478979 Angarsk 1 Programmist YANDEX
+Volkov Valentin 79032480839 Achinsk 0 11 7 1977
+Pavlov Veniamin 79021100147 Anapa 1 Santehnik CRB
+Kozlov Vsevolod 77019381234 Aleksandrov 0 4 7 1956
+Mihajlov Vladislav 77027773690 Astrahan 0 10 2 2013
+Kozlov Vissarion 77787683377 Aleksandrov 1 Vrach BOMONKA
+Kiselev Voldemar 77077799795 Armavir 0 5 6 1968
+Borisov Voldemar 77714927700 Almetevsk 1 Santehnik GOOGLE
+Kozlov Vissarion 77772955554 Azov 0 3 5 1954
+Kozlov Vasilij 77079517777 Balakovo 1 Slesar CRB
+Vasilev Valentin 79021100098 Balahna 0 25 1 1963
+Semenov Vsevolod 79021100098 Aleksandrov 1 Programmist ICPP
+Lebedev Vadim 77715740077 Almetevsk 1 Programmist UFC
+Morozov Viktor 79032478917 Asbest 0 22 2 2002
+Solovev Vlad 77057163877 Almetevsk 1 Sanitar BOMONKA
+Gusev Valerij 77019381234 Almetevsk 1 Volonter MIT
+Semenov Valerij 79021100098 Azov 1 Santehnik CRB
+Solovev Vladislav 79021100098 Arhangelsk 1 Slesar CRB
+Sergeev Vsevolod 77714927700 Aleksin 0 2 3 1961
+Makarov Vasilij 79021100098 Almetevsk 1 Uchitel MIT
+Morozov Vissarion 77077799795 Apatity 0 28 2 1987
+Mihajlov Vissarion 79032478979 Abakan 0 1 4 2015
+Solovev Veniamin 77714927700 Almetevsk 0 12 6 2006
+Zaharov Vladimir 79032478917 Almetevsk 0 5 1 1969
+Romanov Vikentij 79032478845 Anapa 0 28 12 1974
+Vasilev Valerij 79021100147 Arhangelsk 1 Programmist MIT
+Vasilev Vissarion 79032478917 Angarsk 0 16 1 1956
+Smirnov Vissarion 77715797822 Angarsk 0 7 7 1992
+Makarov Vyacheslav 79032480839 Aleksandrov 0 6 6 2018
+Kuznecov Voldemar 79032478979 Armavir 0 27 2 2012
+Kuzmin Vladlen 77074909644 Aleksin 0 25 6 1980
+Kiselev Vadim 79032478979 Almetevsk 0 20 6 1997
+Solovev Vsevolod 77770076877 Apatity 0 20 6 1996
+Kozlov Vikentij 77027773690 Balahna 0 5 5 1964
+Stepanov Veniamin 77019381234 Balahna 1 Uchitel UFC
+Borisov Vsevolod 77019381234 Anapa 1 Slesar MIT
+Nikitin Viktor 79032480839 Balahna 0 17 9 1957
+Popov Vladislav 77770076977 Armavir 0 5 11 1950
+Lebedev Vladislav 79021100098 Achinsk 1 Vrach MIT
+Orlov Viktor 79032478917 Balahna 1 Volonter MIT
+Vasilev Vilen 77079517777 Balahna 1 Vrach UFC
+Ivanov Valentin 77770076877 Apatity 1 Slesar YANDEX
+Grigorev Voldemar 77787683377 Astrahan 1 Volonter CRB
+Gusev Voldemar 77714927700 Balakovo 0 10 4 1958
+Novikov Vladislav 79032478845 Aleksandrov 1 Programmist GOOGLE
+Smirnov Vikentij 77027773690 Asbest 0 17 1 2001
+Smirnov Valentin 79021100098 Almetevsk 0 10 12 1967
+Vorobev Vadim 77019381234 Aleksandrov 1 Programmist GOOGLE
+Kuzmin Vasilij 77057163877 Apatity 1 Volonter MIT
+Borisov Vladimir 77714927700 Aleksin 0 1 7 1984
+Zaharov Vilen 77787483377 Astrahan 0 27 8 1950
+Pavlov Vikentij 77715740077 Arzamas 1 Vrach BOMONKA
+Makarov Vladislav 79021100099 Abakan 0 14 10 1967
+Alekseev Voldemar 79021100099 Arzamas 1 Vrach GOOGLE
+Semenov Vikentij 77714927700 Apatity 1 Uchitel BOMONKA
+Makarov Vyacheslav 77079517777 Anapa 1 Santehnik CRB
+Novikov Valerij 77715797822 Arzamas 0 17 11 2001
+Ivanov Vyacheslav 77077799795 Balahna 0 23 8 1970
+Kuznecov Vilen 77074909644 Arzamas 0 2 7 1999
+Smirnov Valerij 79032478917 Apatity 0 29 10 1981
+Nikitin Vikentij 79032478845 Aleksin 1 Uchitel CRB
+Kuzmin Vladimir 77017333190 Apatity 0 20 3 1953
+Orlov Vadim 77772955554 Achinsk 0 30 10 2014
+Zaharov Vadim 77077799795 Arzamas 1 Volonter UFC
+Vasilev Voldemar 79032478917 Aleksandrov 0 23 12 2018
+Petrov Vladislav 79032478979 Aleksin 1 Uchitel YANDEX
+Kozlov Vlad 77027773690 Aleksandrov 0 10 10 2020
+Orlov Vladlen 77057163877 Aleksandrov 0 19 11 1950
+Sergeev Vladlen 77079517777 Anapa 0 28 11 1953
+Romanov Vasilij 77714927700 Apatity 1 Volonter ICPP
+Korolev Voldemar 79021100099 Arzamas 1 Sanitar GOOGLE
+Vorobev Vitalij 77772955554 Aleksandrov 1 Vrach CRB
+Volkov Vissarion 79032478979 Balakovo 0 7 12 2018
+Pavlov Vitalij 77772955554 Anapa 0 7 10 1974
+Mihajlov Vitalij 77715797822 Balahna 0 8 4 1979
+Kuzmin Vladimir 77770076977 Achinsk 1 Sanitar MIT
+Aleksandrov Vladlen 77787683377 Almetevsk 0 10 11 2018
+Popov Vlad 79021100099 Apatity 1 Vrach GOOGLE
+Nikolaev Veniamin 79021100099 Asbest 0 8 10 1989
+Zajcev Vissarion 79021100098 Balakovo 1 Volonter CRB
+Sokolov Vladislav 77017333190 Armavir 1 Uchitel BMSTU
+Orlov Voldemar 77715797822 Balahna 0 14 12 2013
+Borisov Vladimir 77787683377 Balahna 1 Slesar BMSTU
+Popov Vissarion 77027773690 Azov 0 17 6 1999
+Lebedev Vadim 77770076877 Achinsk 0 17 1 1972
+Egorov Vlad 79021100147 Armavir 0 4 5 1962
+Borisov Vadim 77019381234 Astrahan 0 16 1 2017
+Nikolaev Vitalij 77714927700 Apatity 1 Volonter BMSTU
+Mihajlov Vikentij 79032478979 Achinsk 0 17 3 2004
+Vorobev Veniamin 79021100147 Balahna 1 Sanitar ICPP
+Solovev Vilen 77027773690 Aleksandrov 0 6 4 2019
+Zaharov Vilen 79032478845 Asbest 0 12 12 1988
+Volkov Valerij 77715797822 Abakan 0 4 12 1995
+Nikolaev Valerij 77715797822 Aleksin 0 5 12 1953
+Vasilev Vitalij 79032478917 Angarsk 0 22 9 1987
+Morozov Valerij 79032478979 Apatity 1 Programmist UFC
+Volkov Vadim 77787683377 Armavir 0 11 3 1991
+Kozlov Vyacheslav 77787683377 Almetevsk 1 Programmist BMSTU
+Novikov Vladimir 79032478917 Aleksin 0 13 7 1973
+Semenov Vadim 79021100147 Angarsk 1 Programmist UFC
+YAkovlev Veniamin 77019381234 Anapa 1 Slesar UFC
+Nikolaev Vladislav 77787483377 Almetevsk 0 12 2 2013
+Sergeev Vitalij 77074909644 Abakan 1 Santehnik UFC
+Gusev Vsevolod 79032478845 Almetevsk 0 3 8 2018
+Semenov Vsevolod 77074909644 Azov 0 20 9 1974
+Pavlov Vadim 79021100098 Arzamas 0 20 5 2005
+Romanov Viktor 77770076977 Balakovo 0 29 5 1962
+Zajcev Valerij 77079517777 Achinsk 0 23 4 1984
+Fedorov Vladislav 77714927700 Balahna 0 16 12 1978
+Lebedev Vladislav 77787683377 Anapa 0 7 6 1989
+Mihajlov Vasilij 77027773690 Aleksin 0 1 10 2001
+Novikov Valentin 77027773690 Balakovo 1 Volonter BOMONKA
+Novikov Vsevolod 79021100147 Astrahan 1 Santehnik YANDEX
+Zajcev Viktor 77715797822 Almetevsk 1 Sanitar BOMONKA
+Nikitin Voldemar 77787683377 Angarsk 0 12 2 2010
+Korolev Vilen 77057163877 Abakan 0 10 4 2010
+Vorobev Vasilij 77019381234 Achinsk 1 Vrach GOOGLE
+Stepanov Vadim 79021100099 Astrahan 0 11 2 1975
+Romanov Vissarion 79032478845 Anapa 0 9 5 1957
+Alekseev Vladimir 77057163877 Angarsk 0 26 12 1959
+Zajcev Vladislav 79032478979 Azov 1 Santehnik YANDEX
+Alekseev Viktor 77019381234 Angarsk 0 3 10 1964
+Aleksandrov Viktor 77714927700 Aleksandrov 0 12 8 2006
+Sergeev Vitalij 77714927700 Asbest 1 Vrach GOOGLE
+Makarov Vissarion 77787683377 Aleksin 0 3 6 1991
+Lebedev Vyacheslav 77787683377 Anapa 0 19 11 1959
+Romanov Veniamin 79021100099 Abakan 1 Programmist CRB
+Zaharov Vladimir 77074909644 Balahna 1 Santehnik CRB
+Alekseev Vasilij 77079517777 Aleksandrov 0 18 2 1955
+Aleksandrov Voldemar 77787683377 Asbest 1 Volonter CRB
+Kuznecov Vissarion 77787683377 Almetevsk 1 Vrach UFC
+Korolev Vladimir 79032478979 Aleksin 1 Santehnik BMSTU
+Sergeev Valentin 79021100098 Arhangelsk 1 Vrach BMSTU
+Gusev Vlad 77019381234 Angarsk 0 24 2 2001
+Kozlov Valerij 77715740077 Azov 1 Sanitar BOMONKA
+Petrov Vladlen 79021100147 Apatity 0 15 1 1991
+Lebedev Voldemar 77077799795 Arhangelsk 1 Vrach GOOGLE
+Andreev Vsevolod 79032480839 Arhangelsk 0 11 1 1987
+Volkov Vladimir 77079517777 Azov 0 1 8 2001
+Kozlov Vladislav 77715740077 Aleksandrov 0 15 11 1986
+Smirnov Vitalij 77787483377 Asbest 0 2 12 2006
+Novikov Viktor 79032480839 Aleksin 0 7 10 1962
+Egorov Veniamin 79032478917 Almetevsk 0 24 4 2014
+Aleksandrov Vlad 77772955554 Azov 1 Vrach YANDEX
+Alekseev Vilen 77074909644 Aleksin 1 Slesar YANDEX
+Vasilev Vasilij 77079517777 Asbest 0 1 5 2010
+Zajcev Voldemar 77770076977 Apatity 0 25 4 1951
+Orlov Vitalij 77017333190 Arhangelsk 1 Uchitel BOMONKA
+Sokolov Valerij 79021100147 Abakan 1 Slesar UFC
+Zajcev Vladislav 77017333190 Arhangelsk 1 Volonter BOMONKA
+Frolov Valentin 77770076877 Astrahan 0 6 12 1963
+Kuzmin Valentin 77057163877 Abakan 1 Santehnik GOOGLE
+Romanov Vikentij 77027773690 Balahna 1 Volonter UFC
+Morozov Veniamin 77715740077 Anapa 1 Programmist ICPP
+Fedorov Veniamin 77079517777 Arhangelsk 0 17 8 1970
+Zaharov Vladlen 77772955554 Armavir 1 Santehnik GOOGLE
+Dmitriev Viktor 79032478917 Achinsk 0 17 1 2000
+Kiselev Valentin 79032478845 Anapa 0 26 5 2004
+Pavlov Voldemar 77772955554 Achinsk 1 Volonter GOOGLE
+Ivanov Vadim 79032478917 Armavir 0 16 4 1981
+Pavlov Vladlen 79032478979 Balakovo 0 15 10 1968
+Orlov Vikentij 77057163877 Angarsk 1 Volonter GOOGLE
+Zajcev Vitalij 79032478979 Astrahan 0 4 7 1985
+Solovev Vsevolod 77079517777 Anapa 1 Vrach MIT
+Ivanov Vyacheslav 79032478845 Armavir 0 18 5 2003
+Solovev Vladislav 77077799795 Angarsk 0 20 11 1975
+Gusev Viktor 77787683377 Armavir 1 Programmist YANDEX
+Vasilev Vlad 77019381234 Asbest 0 1 5 1972
+Novikov Vilen 77027773690 Astrahan 0 5 3 1965
+Vasilev Vikentij 79032478979 Achinsk 1 Slesar UFC
+Smirnov Vikentij 77019381234 Achinsk 0 2 1 1971
+Sokolov Vikentij 79032478845 Armavir 1 Santehnik MIT
+Ivanov Vilen 79032478917 Aleksin 1 Sanitar BMSTU
+Morozov Vyacheslav 77770076977 Anapa 0 13 7 1995
+Semenov Vitalij 79021100098 Asbest 0 13 1 2005
+Kuzmin Vilen 77027773690 Balahna 0 29 6 2000
+Zaharov Vyacheslav 77715740077 Balakovo 1 Slesar YANDEX
+Vasilev Vladimir 77772955554 Astrahan 1 Sanitar BMSTU
+Kuzmin Voldemar 79021100099 Abakan 1 Volonter BMSTU
+Zaharov Vilen 79021100098 Asbest 0 1 10 1954
+Semenov Vadim 79032478845 Balahna 0 25 7 1972
+Fedorov Vissarion 79021100098 Anapa 1 Programmist YANDEX
+Kiselev Veniamin 77770076977 Arzamas 0 23 8 2006
+Mihajlov Vasilij 77770076877 Azov 0 6 2 1977
+Fedorov Vsevolod 77772955554 Balahna 1 Volonter MIT
+Gusev Valerij 77787683377 Abakan 0 16 3 2004
+Semenov Vissarion 77077799795 Aleksandrov 0 27 12 1993
+Andreev Vikentij 79021100098 Astrahan 0 8 9 1992
+Dmitriev Viktor 79021100099 Achinsk 0 9 7 2003
+Novikov Vadim 77787483377 Balakovo 0 22 3 2009
+Dmitriev Vikentij 77715740077 Angarsk 1 Volonter YANDEX
+Kozlov Vissarion 77770076977 Aleksandrov 0 23 10 1995
+Aleksandrov Vasilij 77074909644 Balahna 1 Sanitar YANDEX
+Stepanov Voldemar 77017333190 Aleksandrov 0 5 3 1959
+Makarov Veniamin 79021100147 Armavir 0 2 5 2014
+Andreev Vsevolod 77715797822 Achinsk 1 Uchitel UFC
+Makarov Vitalij 77077799795 Anapa 1 Uchitel GOOGLE
+Alekseev Valentin 79021100098 Arzamas 1 Volonter ICPP
+Kozlov Vladimir 79021100147 Balahna 0 2 3 2015
+Dmitriev Vissarion 79021100147 Balakovo 1 Vrach CRB
+Korolev Vadim 79032478845 Almetevsk 1 Volonter GOOGLE
+Kiselev Vladislav 77772955554 Asbest 0 2 10 1969
+Zajcev Vladimir 77074909644 Abakan 1 Vrach UFC
+Dmitriev Voldemar 79021100099 Arhangelsk 0 8 2 1954
+Vasilev Vitalij 77715740077 Anapa 1 Sanitar BOMONKA
+Volkov Vladlen 79032478979 Balahna 1 Volonter ICPP
+Aleksandrov Vasilij 77770076977 Aleksandrov 1 Santehnik BOMONKA
+Zajcev Vsevolod 79021100099 Aleksin 1 Uchitel MIT
+Kuzmin Vilen 79021100099 Apatity 0 28 10 1963
+Ivanov Vlad 79021100147 Angarsk 1 Slesar MIT
+Kozlov Vyacheslav 77079517777 Almetevsk 1 Sanitar BMSTU
+Nikitin Vilen 77715740077 Almetevsk 0 30 12 2004
+Solovev Valerij 77715797822 Aleksin 0 22 4 1987
+Popov Vsevolod 79032478917 Balahna 1 Programmist YANDEX
+Nikitin Vladlen 77770076877 Apatity 1 Programmist ICPP
+Stepanov Viktor 77770076977 Angarsk 1 Uchitel MIT
+YAkovlev Vilen 77715797822 Apatity 1 Programmist YANDEX
+Nikitin Vilen 77715797822 Anapa 0 25 4 1977
+Kozlov Vasilij 77715797822 Anapa 1 Vrach UFC
+Nikitin Vilen 79032480839 Abakan 0 21 6 2014
+Korolev Vitalij 77715740077 Achinsk 0 14 12 1960
+Smirnov Vitalij 77019381234 Balakovo 1 Volonter GOOGLE
+Mihajlov Vladislav 77787483377 Apatity 1 Vrach BMSTU
+Fedorov Viktor 77017333190 Asbest 0 17 8 1982
+Morozov Vilen 77787683377 Achinsk 1 Sanitar MIT
+Orlov Vadim 79021100098 Astrahan 0 10 4 1954
+Makarov Vadim 77027773690 Aleksandrov 0 19 6 2015
+Smirnov Valerij 77770076977 Achinsk 1 Programmist YANDEX
+Frolov Vyacheslav 79032478979 Aleksin 1 Santehnik BOMONKA
+Ivanov Vladlen 77019381234 Almetevsk 0 13 5 1951
+Zaharov Vikentij 77770076877 Achinsk 0 6 6 2002
+Orlov Voldemar 77017333190 Achinsk 1 Programmist ICPP
+Ivanov Voldemar 79021100099 Astrahan 0 5 7 1955
+Makarov Vadim 77714927700 Angarsk 0 8 9 1995
+Dmitriev Vsevolod 77772955554 Arhangelsk 0 30 8 1958
+Kozlov Vitalij 79032478845 Azov 0 14 2 1958
+Kiselev Vasilij 77715797822 Arhangelsk 1 Vrach MIT
+Morozov Viktor 77787683377 Aleksin 0 23 6 1965
+Sokolov Vasilij 77074909644 Armavir 0 25 11 1988
+Dmitriev Vikentij 77770076977 Asbest 0 22 2 1983
+Makarov Vyacheslav 77787483377 Angarsk 0 21 9 2010
+Alekseev Vladlen 79032480839 Astrahan 0 14 5 2000
+Borisov Vilen 77787483377 Apatity 0 21 1 2019
+Mihajlov Vilen 79021100098 Anapa 0 25 12 2005
+Kozlov Valerij 77019381234 Aleksin 1 Volonter GOOGLE
+Fedorov Vlad 77077799795 Astrahan 0 10 12 1972
+Egorov Voldemar 79032478845 Aleksandrov 0 2 7 1999
+Frolov Vyacheslav 79032478917 Angarsk 1 Santehnik GOOGLE
+Andreev Vladlen 77019381234 Astrahan 0 14 7 1966
+Stepanov Valentin 77057163877 Balahna 0 15 5 1961
+Pavlov Vikentij 77017333190 Arhangelsk 1 Sanitar UFC
+Volkov Vilen 77715740077 Apatity 0 1 6 2004
+Lebedev Vitalij 77027773690 Angarsk 1 Volonter BMSTU
+Morozov Voldemar 77714927700 Balahna 1 Santehnik YANDEX
+Nikitin Vladimir 77770076877 Arhangelsk 1 Vrach GOOGLE
+Volkov Voldemar 79032478845 Balakovo 0 25 11 2010
+Egorov Vitalij 79021100098 Balahna 0 5 2 1998
+Kiselev Vsevolod 77772955554 Anapa 1 Slesar ICPP
+YAkovlev Vladimir 77714927700 Armavir 0 7 1 2015
+Kozlov Vlad 77772955554 Arzamas 1 Sanitar BOMONKA
+Vasilev Vasilij 77772955554 Achinsk 1 Uchitel UFC
+Volkov Vadim 77077799795 Apatity 1 Vrach ICPP
+Semenov Vlad 77770076977 Abakan 1 Vrach GOOGLE
+Kozlov Vyacheslav 77772955554 Balahna 0 13 9 1961
+Zaharov Vladimir 79021100099 Almetevsk 0 28 11 1975
+Ivanov Vissarion 77772955554 Almetevsk 0 15 2 1977
+Kozlov Veniamin 77017333190 Arzamas 1 Programmist BOMONKA
+Borisov Vasilij 77019381234 Achinsk 0 30 5 1993
+Sergeev Vsevolod 77787483377 Balahna 0 14 1 2010
+Grigorev Veniamin 77017333190 Achinsk 1 Programmist GOOGLE
+Sergeev Veniamin 77714927700 Balahna 1 Volonter YANDEX
+Kiselev Vikentij 79021100147 Balakovo 1 Slesar CRB
+Makarov Valerij 77017333190 Aleksandrov 1 Volonter YANDEX
+Kiselev Voldemar 77770076977 Almetevsk 0 10 2 1983
+Andreev Vasilij 77715740077 Arhangelsk 0 26 7 1954
+Smirnov Vyacheslav 79021100098 Astrahan 0 8 10 1991
+Novikov Vladimir 77715740077 Abakan 1 Uchitel BOMONKA
+Gusev Vitalij 77057163877 Astrahan 1 Vrach GOOGLE
+YAkovlev Viktor 77715740077 Azov 1 Vrach CRB
+Borisov Valentin 77715797822 Apatity 1 Sanitar CRB
+Egorov Veniamin 79032478845 Azov 1 Uchitel BOMONKA
+Makarov Vissarion 77027773690 Abakan 0 27 4 1964
+Ivanov Vissarion 79032478917 Aleksandrov 1 Sanitar CRB
+Andreev Vikentij 79032480839 Almetevsk 0 4 11 2000
+Lebedev Vladlen 77770076877 Aleksin 1 Volonter CRB
+Grigorev Vilen 77027773690 Angarsk 1 Programmist BOMONKA
+Makarov Vadim 77770076877 Arhangelsk 1 Uchitel BOMONKA
+Dmitriev Veniamin 77715740077 Azov 1 Slesar BOMONKA
+Ivanov Vsevolod 79021100098 Abakan 0 18 3 1999
+Morozov Valerij 77715797822 Aleksin 1 Slesar GOOGLE
+Sergeev Vlad 77715740077 Balakovo 0 6 4 1951
+Semenov Vsevolod 77787483377 Astrahan 0 30 5 2000
+Morozov Vyacheslav 77770076877 Aleksin 1 Santehnik UFC
+Korolev Valentin 77715797822 Balahna 1 Sanitar CRB
+Nikolaev Vadim 77077799795 Anapa 0 19 5 1968
+Volkov Vladlen 77715797822 Angarsk 1 Programmist BOMONKA
+Semenov Vitalij 77787483377 Asbest 0 17 11 2003
+Gusev Vilen 77077799795 Apatity 0 4 5 1988
+Egorov Vlad 77074909644 Armavir 0 9 8 1973
+Nikitin Veniamin 77787683377 Azov 0 28 4 2006
+Semenov Voldemar 77772955554 Anapa 0 15 2 1970
+Orlov Vladislav 77057163877 Anapa 0 8 4 1968
+Borisov Vasilij 77027773690 Arzamas 0 22 7 1953
+Orlov Vilen 77027773690 Angarsk 1 Sanitar YANDEX
+Pavlov Voldemar 79032480839 Achinsk 1 Programmist ICPP
+Frolov Vladimir 77019381234 Balakovo 0 21 8 1994
+Kuzmin Vlad 79021100098 Apatity 1 Sanitar BMSTU
+Andreev Vladimir 77787683377 Aleksandrov 0 9 5 1958
+Sokolov Vyacheslav 79032480839 Anapa 1 Slesar YANDEX
+Sergeev Vilen 79032478917 Apatity 0 15 7 1999
+Aleksandrov Vikentij 77027773690 Balahna 1 Programmist YANDEX
+Kuznecov Vissarion 77019381234 Balakovo 1 Programmist CRB
+Andreev Valentin 77017333190 Angarsk 0 6 10 1995
+Fedorov Vsevolod 77770076977 Arhangelsk 1 Programmist ICPP
+YAkovlev Vissarion 77074909644 Apatity 1 Sanitar GOOGLE
+Nikolaev Vikentij 77077799795 Azov 1 Slesar BMSTU
+Zaharov Vissarion 77017333190 Armavir 1 Sanitar GOOGLE
+Orlov Voldemar 79032478979 Arhangelsk 1 Sanitar BOMONKA
+Dmitriev Valerij 79021100098 Asbest 1 Vrach MIT
+Dmitriev Vladislav 77770076877 Aleksandrov 1 Slesar GOOGLE
+Zaharov Vladlen 77787483377 Arzamas 1 Uchitel MIT
+Kuznecov Vitalij 77057163877 Arhangelsk 0 27 11 1956
+Smirnov Vladimir 77027773690 Anapa 1 Volonter UFC
+Stepanov Vlad 77019381234 Arhangelsk 0 19 10 1981
+Orlov Vlad 79032478845 Balahna 1 Programmist BOMONKA
+Egorov Vitalij 77714927700 Arhangelsk 1 Vrach MIT
+Kuzmin Vsevolod 79021100098 Aleksin 0 3 5 1987
+Sokolov Vasilij 77074909644 Asbest 1 Vrach BMSTU
+Vorobev Valerij 79032478917 Anapa 0 13 11 2006
+Solovev Vladlen 77715740077 Aleksandrov 0 10 1 1953
+Egorov Valerij 77057163877 Almetevsk 0 21 9 2020
+Stepanov Vadim 79032478979 Achinsk 0 9 6 1963
+Egorov Vissarion 77772955554 Arhangelsk 0 28 1 1977
+Korolev Vladislav 77074909644 Achinsk 1 Slesar CRB
+Borisov Veniamin 79021100147 Aleksandrov 0 29 10 1981
+Grigorev Vsevolod 79021100099 Apatity 1 Volonter BOMONKA
+Nikitin Vasilij 77715797822 Apatity 1 Vrach GOOGLE
+Kiselev Vasilij 79021100147 Azov 1 Santehnik YANDEX
+Frolov Valerij 77770076977 Apatity 0 23 9 1950
+Sokolov Vikentij 79032478979 Arzamas 0 8 2 2010
+Novikov Viktor 77772955554 Azov 0 30 4 1989
+Solovev Vyacheslav 77770076977 Anapa 1 Vrach YANDEX
+Solovev Vasilij 79032480839 Azov 0 16 10 1972
+Zajcev Valerij 79032480839 Aleksandrov 1 Programmist YANDEX
+Dmitriev Vitalij 77017333190 Aleksin 1 Volonter CRB
+Makarov Vadim 77787683377 Aleksin 0 9 4 1983
+YAkovlev Vsevolod 77787683377 Apatity 0 7 8 2001
+Egorov Vlad 77074909644 Armavir 1 Uchitel BMSTU
+Lebedev Vilen 77770076877 Balakovo 1 Uchitel GOOGLE
+Lebedev Vadim 77787683377 Apatity 1 Sanitar CRB
+Stepanov Veniamin 79032480839 Anapa 1 Volonter MIT
+Nikolaev Valentin 79032480839 Apatity 0 2 1 1976
+Pavlov Vasilij 79021100098 Armavir 0 15 7 1985
+YAkovlev Vsevolod 77770076877 Asbest 0 7 5 1991
+Pavlov Vadim 77715797822 Angarsk 1 Slesar CRB
+Semenov Vlad 77019381234 Almetevsk 0 18 1 1966
+Orlov Viktor 79032478979 Azov 0 8 12 1978
+Sokolov Vilen 77770076977 Abakan 1 Volonter BOMONKA
+Morozov Vladimir 77017333190 Azov 0 19 1 1953
+Mihajlov Vladimir 77074909644 Arhangelsk 0 21 12 2014
+Fedorov Vissarion 79032478917 Achinsk 0 16 5 1977
+Gusev Vsevolod 77074909644 Aleksandrov 1 Vrach CRB
+Grigorev Vadim 77770076877 Aleksin 1 Vrach BMSTU
+Solovev Vitalij 79032478845 Balahna 1 Sanitar UFC
+Morozov Veniamin 79032478845 Aleksin 0 9 3 1970
+Egorov Vladislav 77079517777 Aleksandrov 1 Uchitel BMSTU
+Stepanov Voldemar 77019381234 Abakan 1 Uchitel MIT
+Andreev Valentin 77770076977 Aleksandrov 0 20 12 1990
+Korolev Vlad 77027773690 Apatity 0 16 11 1957
+Orlov Vlad 79032478979 Armavir 0 25 4 2019
+Semenov Vladimir 79032478917 Achinsk 1 Programmist GOOGLE
+Kiselev Vsevolod 77079517777 Balakovo 0 11 6 1955
+Zajcev Vladislav 77074909644 Arhangelsk 1 Uchitel YANDEX
+Alekseev Vissarion 79032478917 Azov 0 6 11 1970
+Semenov Valentin 77057163877 Aleksin 1 Sanitar BMSTU
+Makarov Valerij 79021100098 Arhangelsk 0 2 8 1981
+Alekseev Vladlen 77770076877 Arhangelsk 0 2 10 1955
+Grigorev Vladislav 77770076977 Almetevsk 0 9 4 2014
+Nikolaev Veniamin 77787683377 Achinsk 1 Santehnik MIT
+Orlov Vitalij 79032478979 Aleksandrov 1 Programmist BOMONKA
+Pavlov Valentin 79032478845 Anapa 1 Uchitel UFC
+Pavlov Vilen 77019381234 Arzamas 1 Sanitar YANDEX
+YAkovlev Vsevolod 77027773690 Angarsk 1 Programmist CRB
+Frolov Voldemar 79021100099 Achinsk 1 Volonter ICPP
+Volkov Vsevolod 79032480839 Angarsk 0 25 9 2019
+Mihajlov Vilen 79021100147 Anapa 1 Uchitel BOMONKA
+Popov Veniamin 77715740077 Balakovo 1 Santehnik UFC
+Pavlov Vladimir 79032478979 Arhangelsk 0 26 2 1981
+Fedorov Vitalij 77019381234 Azov 1 Uchitel CRB
+Kiselev Vladimir 79032478845 Aleksin 0 3 11 1971
+Sokolov Vladimir 77074909644 Armavir 0 5 5 1986
+Lebedev Vlad 79021100147 Arzamas 0 17 11 1951
+Orlov Valentin 79032478845 Astrahan 0 6 3 1985
+Andreev Vsevolod 77787483377 Balahna 0 23 5 2005
+YAkovlev Viktor 77715740077 Anapa 1 Volonter YANDEX
+Andreev Vadim 77787683377 Aleksin 0 29 9 1984
+Aleksandrov Vitalij 77079517777 Arzamas 1 Vrach UFC
+Solovev Veniamin 79032478845 Aleksandrov 1 Vrach ICPP
+Andreev Viktor 79021100099 Balahna 0 9 2 1953
+Volkov Veniamin 77079517777 Almetevsk 0 8 12 1988
+Grigorev Vikentij 79032478845 Armavir 0 16 2 1968
+Kozlov Vilen 77079517777 Arzamas 0 17 7 1986
+Pavlov Vsevolod 77772955554 Astrahan 0 5 10 1951
+Smirnov Valerij 77027773690 Apatity 0 16 5 1999
+Kuzmin Valerij 77787483377 Armavir 1 Sanitar UFC
+Orlov Vladislav 77770076977 Angarsk 1 Slesar BMSTU
+Stepanov Vlad 77770076977 Asbest 1 Santehnik BOMONKA
+Romanov Vilen 79032480839 Achinsk 0 25 10 2002
+Popov Vissarion 77770076877 Anapa 1 Uchitel BOMONKA
+Nikitin Vikentij 79021100147 Azov 1 Santehnik BMSTU
+Zaharov Veniamin 77019381234 Arzamas 0 11 4 2017
+Sokolov Viktor 79021100147 Aleksandrov 0 4 11 1968
+Pavlov Vikentij 77714927700 Abakan 1 Sanitar BOMONKA
+Korolev Voldemar 79021100099 Angarsk 0 30 1 1963
+YAkovlev Vadim 77017333190 Aleksandrov 0 18 3 2011
+Aleksandrov Vlad 77787483377 Aleksin 1 Santehnik YANDEX
+Semenov Voldemar 77079517777 Almetevsk 0 20 11 1963
+Volkov Valentin 77772955554 Almetevsk 0 5 1 1984
+Kuznecov Vissarion 77057163877 Armavir 0 1 4 2008
+Novikov Vyacheslav 79021100099 Balahna 1 Sanitar UFC
+Lebedev Vitalij 77077799795 Apatity 1 Santehnik YANDEX
+Nikitin Valerij 77770076977 Achinsk 0 12 11 1996
+Vorobev Vlad 77074909644 Angarsk 0 30 10 1950
+Lebedev Vladlen 79032480839 Abakan 1 Santehnik CRB
+Kiselev Vsevolod 79021100098 Almetevsk 0 16 4 1996
+Sokolov Vsevolod 79021100147 Azov 0 26 7 1987
+Sokolov Vsevolod 77079517777 Armavir 0 3 8 1952
+Nikolaev Vikentij 77787483377 Asbest 1 Vrach GOOGLE
+Sergeev Vlad 79021100147 Achinsk 1 Slesar YANDEX
+Nikitin Vsevolod 79021100147 Anapa 0 26 10 2009
+Makarov Vasilij 77770076877 Asbest 0 28 6 2013
+Semenov Vladislav 77770076977 Astrahan 0 21 9 1955
+Egorov Vasilij 77715797822 Abakan 0 4 9 2017
+Egorov Veniamin 77714927700 Abakan 1 Sanitar BOMONKA
+Grigorev Vilen 77715797822 Angarsk 1 Volonter ICPP
+Kuznecov Viktor 77714927700 Arzamas 1 Vrach BOMONKA
+Borisov Vlad 77772955554 Astrahan 0 10 2 1984
+Nikolaev Viktor 77772955554 Aleksin 0 15 4 2005
+Stepanov Vilen 77017333190 Abakan 1 Programmist YANDEX
+Stepanov Vladlen 77770076977 Anapa 1 Uchitel GOOGLE
+Egorov Veniamin 77770076877 Aleksandrov 0 27 12 2001
+Vorobev Vladlen 79021100147 Apatity 1 Programmist ICPP
+Gusev Voldemar 79032478845 Aleksin 0 3 5 1978
+Kuznecov Vladlen 79032480839 Balakovo 0 18 4 1985
+Semenov Vladimir 77017333190 Anapa 0 2 12 1986
+Kuzmin Vsevolod 79032480839 Angarsk 0 8 2 1951
+Morozov Vlad 77715740077 Astrahan 0 26 9 2013
+Kuzmin Vlad 77074909644 Almetevsk 0 9 9 2016
+Sokolov Vladislav 79021100147 Armavir 0 12 7 1956
+Stepanov Voldemar 79032478845 Azov 1 Uchitel UFC
+Mihajlov Vlad 79021100147 Apatity 1 Sanitar ICPP
+Ivanov Viktor 79032478917 Aleksin 0 5 4 2000
+Vorobev Vitalij 79032478845 Azov 1 Volonter BMSTU
+Kuzmin Vasilij 77787683377 Azov 1 Vrach MIT
+Kuzmin Vissarion 77787683377 Armavir 1 Uchitel BOMONKA
+Semenov Vilen 79032480839 Armavir 0 4 8 1985
+Romanov Vsevolod 77077799795 Almetevsk 1 Programmist BOMONKA
+Andreev Vilen 77019381234 Arzamas 1 Sanitar GOOGLE
+Alekseev Vladislav 77770076877 Apatity 1 Volonter GOOGLE
+Volkov Valerij 77714927700 Achinsk 1 Santehnik GOOGLE
+Stepanov Vlad 77019381234 Aleksin 0 27 6 2011
+Grigorev Vikentij 79032478979 Balakovo 1 Uchitel YANDEX
+Grigorev Vladlen 77715740077 Almetevsk 0 23 6 2013
+Novikov Vladislav 79021100098 Apatity 0 23 6 1990
+Orlov Vilen 77772955554 Balakovo 0 25 1 1970
+Volkov Vlad 77787683377 Abakan 1 Volonter MIT
+Kiselev Veniamin 79032480839 Aleksandrov 1 Volonter BMSTU
+Kiselev Vladislav 77079517777 Aleksandrov 1 Slesar YANDEX
+Vorobev Valentin 77715740077 Abakan 1 Santehnik GOOGLE
+Zajcev Veniamin 77079517777 Armavir 0 11 10 1956
+Pavlov Viktor 77715740077 Asbest 1 Volonter BOMONKA
+Zaharov Vilen 77770076977 Apatity 1 Volonter GOOGLE
+Vorobev Vladimir 77770076877 Achinsk 0 5 10 1995
+Novikov Valentin 77715740077 Aleksandrov 0 25 12 2013
+Dmitriev Valerij 77787483377 Arhangelsk 1 Santehnik CRB
+Andreev Vikentij 77019381234 Anapa 0 19 9 1985
+Stepanov Vitalij 77074909644 Astrahan 1 Slesar UFC
+Mihajlov Vladlen 77019381234 Angarsk 1 Programmist BMSTU
+Alekseev Vyacheslav 77715797822 Balakovo 1 Programmist YANDEX
+Makarov Valentin 77077799795 Achinsk 1 Slesar BOMONKA
+Stepanov Vladlen 77057163877 Anapa 0 6 3 1993
+Popov Vladimir 79032478979 Aleksandrov 0 30 9 2004
+Kozlov Vladlen 77074909644 Asbest 1 Sanitar MIT
+Zajcev Vladlen 79021100147 Almetevsk 1 Santehnik BOMONKA
+Grigorev Veniamin 77074909644 Arzamas 0 30 2 2014
+Lebedev Valentin 79032478845 Asbest 1 Slesar BMSTU
+Sokolov Vyacheslav 77057163877 Azov 0 30 10 2020
+Semenov Vikentij 77787683377 Angarsk 1 Uchitel MIT
+Kuzmin Vyacheslav 77077799795 Arzamas 1 Sanitar CRB
+Smirnov Vladimir 79021100098 Balakovo 1 Santehnik MIT
+Andreev Vyacheslav 77714927700 Aleksandrov 1 Santehnik BMSTU
+Smirnov Vitalij 77770076877 Achinsk 1 Volonter BOMONKA
+Morozov Veniamin 77787683377 Armavir 0 2 7 2006
+Mihajlov Vissarion 77057163877 Armavir 1 Uchitel ICPP
+Nikolaev Valentin 77017333190 Aleksin 1 Uchitel GOOGLE
+Orlov Vikentij 77027773690 Apatity 0 5 12 1978
+YAkovlev Vladlen 77027773690 Aleksandrov 0 29 5 2020
+Mihajlov Voldemar 79032478979 Azov 0 9 11 2008
+Korolev Voldemar 77772955554 Angarsk 0 4 4 1977
+Vasilev Veniamin 79021100147 Anapa 1 Vrach BOMONKA
+Popov Veniamin 77772955554 Abakan 1 Programmist BMSTU
+Gusev Vitalij 77787683377 Arhangelsk 1 Slesar GOOGLE
+Gusev Vasilij 77027773690 Armavir 0 7 4 2014
+Kozlov Veniamin 79021100098 Abakan 1 Santehnik ICPP
+Vorobev Vlad 79032480839 Achinsk 0 22 8 1993
+Alekseev Vissarion 79032478917 Armavir 1 Sanitar MIT
+Kuznecov Vissarion 79032478979 Astrahan 0 8 1 2004
+Sergeev Vladislav 77770076877 Balahna 1 Volonter UFC
+Nikitin Vlad 79032478979 Aleksin 1 Santehnik GOOGLE
+Nikitin Valentin 77714927700 Almetevsk 0 11 2 1977
+Popov Vsevolod 77714927700 Anapa 1 Slesar MIT
+Lebedev Viktor 77787683377 Balakovo 1 Volonter UFC
+Makarov Voldemar 77017333190 Achinsk 0 11 9 1976
+Vasilev Vitalij 77770076877 Achinsk 1 Programmist BMSTU
+Korolev Veniamin 77772955554 Balakovo 0 13 6 1974
+Smirnov Vladlen 79021100147 Aleksandrov 0 5 10 1965
+Borisov Vladlen 79021100098 Apatity 0 5 4 1954
+Aleksandrov Valentin 79021100098 Azov 0 23 8 2008
+Kozlov Vasilij 79032480839 Apatity 1 Slesar BMSTU
+Dmitriev Vasilij 77770076977 Angarsk 0 18 8 1974
+Mihajlov Voldemar 77787483377 Anapa 0 29 8 1997
+Zajcev Veniamin 77770076977 Aleksin 1 Uchitel UFC
+Romanov Vikentij 79021100147 Aleksin 0 23 7 1990
+Frolov Viktor 77077799795 Arzamas 0 15 3 1978
+Zaharov Vilen 77715797822 Arzamas 1 Sanitar MIT
+Semenov Vadim 77772955554 Balahna 1 Vrach GOOGLE
+Aleksandrov Vilen 79032478979 Anapa 1 Volonter BMSTU
+Kuzmin Vilen 79021100099 Aleksin 0 13 3 1991
+Sokolov Viktor 77074909644 Astrahan 0 4 10 1969
+Kozlov Vasilij 77019381234 Almetevsk 1 Programmist BOMONKA
+Petrov Vsevolod 77787483377 Achinsk 1 Slesar BOMONKA
+Kuzmin Vladimir 77772955554 Achinsk 0 11 1 2009
+Nikitin Voldemar 77074909644 Azov 1 Programmist CRB
+Aleksandrov Valerij 77027773690 Astrahan 1 Slesar BMSTU
+Sokolov Vadim 79021100098 Aleksin 0 17 7 2001
+Makarov Vissarion 77714927700 Asbest 1 Uchitel BMSTU
+Lebedev Vladimir 77787483377 Apatity 1 Vrach UFC
+Stepanov Vladimir 79032478845 Almetevsk 1 Vrach CRB
+Stepanov Vsevolod 77077799795 Astrahan 0 18 3 1975
+Solovev Vadim 77017333190 Arzamas 1 Sanitar CRB
+Zajcev Vlad 77057163877 Apatity 1 Slesar CRB
+Ivanov Vsevolod 77714927700 Apatity 1 Sanitar ICPP
+Popov Vikentij 79032478845 Abakan 0 10 7 1970
+Petrov Vilen 79021100147 Arhangelsk 1 Uchitel BMSTU
+Lebedev Vasilij 77017333190 Apatity 1 Volonter YANDEX
+Solovev Vladimir 79032480839 Achinsk 1 Santehnik ICPP
+Novikov Veniamin 77027773690 Almetevsk 1 Vrach BMSTU
+Stepanov Vitalij 79021100098 Achinsk 0 16 12 1974
+Lebedev Viktor 77019381234 Apatity 0 18 11 1975
+Petrov Vitalij 77714927700 Aleksin 1 Uchitel BOMONKA
+Korolev Voldemar 77787683377 Azov 0 3 5 1976
+Vorobev Valerij 79032478917 Astrahan 0 29 10 1952
+Andreev Vilen 77079517777 Achinsk 0 1 5 1999
+Nikolaev Vilen 79021100099 Aleksin 1 Sanitar BMSTU
+Nikolaev Viktor 79032478845 Apatity 1 Programmist BMSTU
+Sokolov Vasilij 77770076977 Astrahan 0 11 7 1973
+Stepanov Vsevolod 79032478917 Abakan 1 Volonter BMSTU
+Vasilev Vissarion 77770076977 Anapa 0 1 8 2010
+Stepanov Viktor 79021100099 Abakan 0 1 2 1979
+Smirnov Veniamin 77074909644 Aleksandrov 1 Vrach ICPP
+Makarov Veniamin 77770076977 Astrahan 0 8 7 2018
+Gusev Vyacheslav 77057163877 Asbest 1 Uchitel UFC
+YAkovlev Viktor 77057163877 Armavir 0 12 2 1968
+Romanov Vyacheslav 77714927700 Arzamas 0 10 2 1953
+Novikov Vitalij 79021100099 Aleksandrov 0 19 6 1965
+Popov Vsevolod 77079517777 Achinsk 0 18 6 1955
+Solovev Vissarion 77027773690 Apatity 0 3 5 1958
+Vorobev Vikentij 79021100098 Apatity 0 26 10 2009
+Kiselev Voldemar 77787483377 Balahna 0 12 7 1953
+Pavlov Voldemar 77714927700 Azov 0 12 9 1980
+Gusev Vyacheslav 79032478845 Arhangelsk 0 3 4 1999
+Nikitin Vissarion 77017333190 Abakan 1 Uchitel CRB
+Korolev Vilen 79032478979 Arhangelsk 1 Volonter ICPP
+Kuznecov Vyacheslav 79032478917 Balahna 1 Programmist MIT
+Korolev Vyacheslav 77019381234 Balahna 1 Volonter BOMONKA
+Nikitin Vitalij 79021100099 Balahna 0 9 10 1992
+Aleksandrov Viktor 79032478845 Balakovo 1 Uchitel BOMONKA
+Kuznecov Voldemar 77787683377 Angarsk 1 Volonter UFC
+Gusev Valerij 77079517777 Almetevsk 1 Vrach YANDEX
+Sokolov Vsevolod 77770076977 Azov 0 3 10 2009
+Pavlov Voldemar 77772955554 Arhangelsk 0 17 2 1952
+Grigorev Vladlen 77715740077 Balahna 1 Slesar MIT
+Zajcev Vasilij 77077799795 Asbest 1 Vrach ICPP
+Andreev Veniamin 77787483377 Aleksandrov 0 24 9 2005
+Sokolov Vitalij 79032480839 Astrahan 0 4 11 1964
+Nikitin Veniamin 77715740077 Anapa 0 11 4 1998
+YAkovlev Vadim 79021100098 Asbest 1 Sanitar BOMONKA
+Sokolov Vlad 77079517777 Aleksandrov 1 Volonter ICPP
+Popov Veniamin 77079517777 Anapa 1 Vrach MIT
+Romanov Valerij 77074909644 Aleksandrov 0 10 11 1998
+Vasilev Valentin 77077799795 Arhangelsk 1 Vrach CRB
+Sokolov Vladimir 79021100099 Almetevsk 0 9 4 2012
+Nikolaev Vikentij 77017333190 Aleksandrov 0 6 8 1996
+Sokolov Vladislav 77019381234 Balakovo 0 27 6 1973
+Smirnov Vsevolod 77057163877 Anapa 1 Uchitel YANDEX
+Volkov Vladislav 79021100099 Angarsk 0 24 6 2011
+Vorobev Vikentij 77715740077 Abakan 1 Uchitel BMSTU
+Gusev Vyacheslav 77079517777 Aleksandrov 1 Vrach YANDEX
+Lebedev Viktor 77787683377 Asbest 1 Volonter ICPP
+Grigorev Vyacheslav 79021100147 Almetevsk 1 Santehnik ICPP
+Grigorev Vissarion 77715797822 Achinsk 1 Slesar CRB
+Novikov Vladislav 77027773690 Asbest 0 26 4 1969
+Morozov Vilen 77019381234 Arzamas 1 Volonter UFC
+Gusev Vladislav 77714927700 Armavir 1 Volonter CRB
+Grigorev Viktor 77079517777 Almetevsk 1 Volonter UFC
+Novikov Vissarion 79032478845 Arhangelsk 0 3 6 1987
+Kiselev Vasilij 77017333190 Balahna 1 Sanitar GOOGLE
+Grigorev Vyacheslav 77787483377 Azov 1 Slesar ICPP
+Lebedev Valentin 77715797822 Arzamas 1 Uchitel MIT
+Popov Vissarion 77017333190 Armavir 0 17 8 1991
+Kuznecov Vladlen 77770076877 Astrahan 0 6 2 1975
+Ivanov Vikentij 79032478979 Arzamas 0 17 6 1969
+Kozlov Viktor 77715797822 Anapa 0 19 4 1990
+Volkov Vitalij 79032478845 Asbest 0 21 10 1991
+Novikov Vitalij 77077799795 Balahna 1 Sanitar UFC
+Lebedev Vissarion 77074909644 Aleksandrov 1 Slesar BOMONKA
+Ivanov Vsevolod 77017333190 Achinsk 1 Uchitel MIT
+Gusev Vladislav 79032478979 Apatity 1 Uchitel BOMONKA
+Alekseev Vissarion 79032478979 Balahna 0 26 3 2019
+Nikitin Vlad 79021100147 Apatity 1 Uchitel YANDEX
+Vorobev Vikentij 79032478845 Almetevsk 1 Slesar ICPP
+Morozov Veniamin 77787483377 Aleksin 1 Sanitar UFC
+Gusev Voldemar 77077799795 Balakovo 1 Slesar BOMONKA
+Frolov Vasilij 77017333190 Angarsk 1 Volonter BMSTU
+Nikolaev Valentin 77057163877 Balahna 0 3 7 2002
+Morozov Vissarion 77787683377 Balahna 0 3 7 1981
+Novikov Viktor 77079517777 Apatity 0 3 3 2001
+Novikov Valerij 77027773690 Armavir 0 10 12 1959
+Semenov Vissarion 77770076877 Anapa 1 Vrach BMSTU
+Volkov Vyacheslav 79032478979 Angarsk 1 Programmist BOMONKA
+YAkovlev Vissarion 77027773690 Angarsk 0 16 5 1987
+Gusev Valerij 77772955554 Anapa 1 Santehnik BOMONKA
+Novikov Vissarion 77787483377 Balakovo 1 Slesar ICPP
+Sergeev Vadim 79032478845 Aleksin 1 Santehnik ICPP
+Solovev Veniamin 77715797822 Asbest 1 Santehnik BOMONKA
+Kuznecov Vadim 77077799795 Apatity 0 12 5 1950
+Kuznecov Vissarion 77079517777 Arzamas 0 19 12 1963
+Solovev Veniamin 77787483377 Aleksin 1 Sanitar YANDEX
+Popov Vadim 77074909644 Azov 0 9 6 1993
+Dmitriev Vladimir 77787683377 Azov 1 Vrach BMSTU
+Kiselev Valerij 77027773690 Apatity 0 19 3 1956
+Stepanov Vitalij 77079517777 Balahna 1 Uchitel ICPP
+Kuzmin Vadim 77772955554 Apatity 0 19 6 2012
+YAkovlev Veniamin 79032478917 Azov 1 Santehnik GOOGLE
+Pavlov Valerij 77715797822 Almetevsk 0 12 6 1967
+Mihajlov Viktor 77715797822 Aleksin 1 Sanitar GOOGLE
+Dmitriev Vyacheslav 79021100098 Balakovo 0 23 8 1998
+Nikitin Vladislav 77017333190 Balakovo 0 24 6 2015
+Borisov Viktor 77715797822 Asbest 0 3 12 1962
+Smirnov Vitalij 77074909644 Aleksin 0 13 1 2009
+Romanov Vasilij 77787483377 Arzamas 1 Volonter ICPP
+Kiselev Vladimir 77017333190 Astrahan 0 29 12 1973
+Semenov Viktor 77019381234 Almetevsk 0 4 11 2008
+Frolov Vsevolod 77714927700 Achinsk 1 Sanitar ICPP
+Popov Vladlen 77715797822 Azov 0 10 11 2002
+Zaharov Veniamin 79021100147 Arzamas 1 Programmist BMSTU
+Borisov Vitalij 77019381234 Balakovo 1 Programmist CRB
+Morozov Vikentij 77787483377 Achinsk 1 Santehnik BOMONKA
+Nikolaev Vladimir 77019381234 Azov 0 23 9 2012
+Frolov Vadim 79032480839 Azov 1 Vrach ICPP
+Vasilev Voldemar 77787483377 Angarsk 0 14 4 1996
+Ivanov Vissarion 77714927700 Armavir 1 Vrach BMSTU
+Alekseev Vsevolod 79021100098 Balakovo 1 Vrach MIT
+Kiselev Valerij 77715797822 Aleksin 1 Sanitar ICPP
+Zaharov Vsevolod 77715797822 Angarsk 1 Volonter ICPP
+Kuzmin Vilen 77715797822 Apatity 0 11 5 1971
+Aleksandrov Valerij 77772955554 Achinsk 0 18 11 1956
+Nikitin Vladislav 79032478845 Azov 1 Santehnik UFC
+Vasilev Vadim 79032478979 Astrahan 1 Santehnik ICPP
+Egorov Vissarion 77074909644 Aleksin 0 15 7 1950
+Pavlov Valerij 77057163877 Aleksin 0 29 3 2012
+Korolev Valerij 77017333190 Almetevsk 0 29 8 1969
+Zajcev Vladislav 77772955554 Astrahan 0 30 7 1980
+Sergeev Vladimir 79032478917 Balakovo 0 28 7 1990
+Vorobev Vladislav 77027773690 Angarsk 0 21 9 1973
+Kuzmin Vasilij 77019381234 Armavir 0 14 9 2004
+Vorobev Vilen 77074909644 Arhangelsk 0 21 1 2009
+YAkovlev Vsevolod 77057163877 Azov 0 22 6 1979
+Nikitin Veniamin 77079517777 Angarsk 0 1 5 1950
+Nikolaev Vilen 77715797822 Azov 0 25 6 1961
+Kozlov Vadim 77074909644 Aleksandrov 0 15 10 1968
+Smirnov Valentin 77714927700 Aleksin 0 26 5 2004
+Morozov Vlad 77715740077 Azov 1 Volonter ICPP
+Petrov Voldemar 79032478917 Angarsk 0 16 8 1957
+Morozov Vladimir 77019381234 Arzamas 1 Programmist GOOGLE
+Kuznecov Vladlen 77017333190 Aleksin 1 Uchitel BMSTU
+Alekseev Vilen 77027773690 Balahna 0 14 4 1965
+Mihajlov Vikentij 79032478917 Asbest 0 22 11 1972
+Kozlov Voldemar 77770076877 Astrahan 0 21 9 1994
+Novikov Viktor 77077799795 Arhangelsk 0 7 12 1993
+Pavlov Vitalij 77770076977 Azov 1 Volonter CRB
+Vasilev Vasilij 77057163877 Abakan 0 24 11 1960
+Nikitin Vasilij 79021100098 Asbest 1 Santehnik CRB
+Kozlov Vladislav 77715740077 Apatity 0 5 7 1965
+Solovev Vitalij 79032478917 Abakan 0 22 12 1954
+Smirnov Vladimir 77770076977 Azov 0 24 11 1978
+Volkov Veniamin 77017333190 Aleksandrov 0 27 4 1965
+Romanov Vyacheslav 77770076977 Almetevsk 0 8 2 1964
+Romanov Vikentij 79032478917 Asbest 0 6 1 1957
+Stepanov Vitalij 77019381234 Anapa 0 23 4 1965
+Alekseev Voldemar 77772955554 Arhangelsk 0 12 5 1963
+Borisov Vissarion 77019381234 Arhangelsk 0 20 2 2001
+Fedorov Vissarion 77715740077 Angarsk 1 Sanitar GOOGLE
+YAkovlev Vissarion 77772955554 Astrahan 0 23 2 1989
+Nikolaev Vissarion 77715740077 Armavir 1 Volonter UFC
+Kozlov Valerij 77715740077 Abakan 0 3 8 1979
+Grigorev Vikentij 79021100147 Arhangelsk 0 17 6 1983
+Novikov Viktor 79032478979 Aleksandrov 1 Vrach UFC
+Kuznecov Vasilij 79032478917 Angarsk 1 Volonter CRB
+Zajcev Vadim 77057163877 Angarsk 0 4 5 1951
+Semenov Vyacheslav 77787683377 Abakan 0 8 11 1963
+Kuzmin Vlad 79032478917 Achinsk 0 5 11 1958
+Volkov Vlad 79032478845 Balahna 1 Santehnik UFC
+Popov Valerij 77770076977 Astrahan 1 Slesar UFC
+Lebedev Vladlen 77715740077 Achinsk 0 6 12 1966
+Popov Vyacheslav 77074909644 Angarsk 0 8 12 2009
+Morozov Veniamin 77787483377 Achinsk 1 Programmist GOOGLE
+Vasilev Vitalij 79032480839 Arzamas 1 Sanitar MIT
+Zajcev Vikentij 77787683377 Almetevsk 0 9 5 2019
+Korolev Veniamin 77017333190 Asbest 1 Programmist GOOGLE
+Popov Valerij 77077799795 Armavir 1 Slesar YANDEX
+Kiselev Vladislav 77787483377 Astrahan 1 Santehnik YANDEX
+Petrov Voldemar 77017333190 Armavir 0 15 11 1981
+Alekseev Vikentij 77019381234 Abakan 0 24 9 1951
+Fedorov Vitalij 79032478979 Anapa 1 Vrach CRB
+Vasilev Vasilij 77027773690 Armavir 1 Vrach UFC
+Borisov Valentin 79032478917 Anapa 0 3 3 2000
+Gusev Vadim 77057163877 Balahna 1 Slesar BOMONKA
+Mihajlov Viktor 77057163877 Astrahan 1 Sanitar UFC
+Mihajlov Vyacheslav 79032478917 Asbest 1 Uchitel CRB
+Romanov Viktor 79021100099 Aleksandrov 1 Programmist CRB
+Egorov Vitalij 79021100147 Achinsk 1 Volonter BOMONKA
+Mihajlov Vyacheslav 77027773690 Arzamas 0 21 12 2010
+Gusev Vikentij 77787483377 Asbest 1 Volonter YANDEX
+Fedorov Vadim 77019381234 Astrahan 1 Sanitar UFC
+Makarov Vyacheslav 77017333190 Astrahan 0 27 5 1969
+Orlov Vilen 77019381234 Achinsk 0 4 9 1965
+Petrov Vlad 79032478979 Aleksandrov 0 18 3 2012
+Andreev Vilen 77057163877 Abakan 1 Santehnik BMSTU
+Mihajlov Valerij 77019381234 Almetevsk 1 Vrach UFC
+Morozov Vasilij 77714927700 Balahna 0 21 4 2003
+Nikitin Vasilij 77770076877 Armavir 1 Slesar BMSTU
+Kozlov Valentin 77714927700 Armavir 0 9 9 1955
+Kiselev Valentin 79021100099 Arzamas 0 10 4 1997
+Kozlov Vladlen 79021100147 Almetevsk 0 13 3 1980
+Borisov Vladimir 77057163877 Achinsk 1 Slesar BMSTU
+Dmitriev Viktor 77079517777 Arzamas 0 5 5 1992
+Kuzmin Viktor 79032478845 Anapa 1 Vrach ICPP
+Volkov Veniamin 79032478845 Angarsk 0 6 12 1973
+Morozov Vasilij 77017333190 Angarsk 1 Vrach BMSTU
+Vasilev Veniamin 77770076977 Balahna 0 26 7 2007
+Ivanov Vadim 79032478979 Armavir 0 23 3 1988
+Kozlov Valerij 79021100099 Balahna 0 23 3 2019
+Aleksandrov Vladimir 77715740077 Azov 1 Vrach BMSTU
+Gusev Vitalij 77772955554 Arhangelsk 1 Sanitar BOMONKA
+Novikov Vladislav 77770076977 Armavir 1 Slesar BOMONKA
+Kozlov Valentin 77079517777 Anapa 1 Programmist GOOGLE
+Romanov Veniamin 77770076877 Anapa 0 4 5 1960
+Pavlov Vikentij 77787683377 Balahna 0 23 1 1970
+Smirnov Vladislav 79032478917 Asbest 0 7 11 2007
+Nikitin Vissarion 77017333190 Armavir 1 Programmist GOOGLE
+Volkov Vadim 79021100099 Angarsk 1 Slesar MIT
+Egorov Vilen 79032478979 Aleksin 0 30 10 2006
+Zajcev Vissarion 77077799795 Aleksandrov 1 Santehnik CRB
+Gusev Vikentij 79032478979 Arzamas 0 17 1 1951
+Semenov Vsevolod 79021100099 Arhangelsk 0 25 11 1980
+Vasilev Vikentij 77787483377 Apatity 1 Sanitar CRB
+Egorov Voldemar 79021100098 Almetevsk 0 8 7 2002
+Ivanov Vasilij 79021100098 Aleksandrov 1 Sanitar CRB
+Zajcev Vlad 77787483377 Arhangelsk 1 Uchitel GOOGLE
+Kozlov Valerij 77027773690 Aleksandrov 0 8 9 2014
+Kuzmin Vikentij 77772955554 Almetevsk 1 Uchitel BOMONKA
+Korolev Vissarion 77770076877 Asbest 0 29 11 2008
+Smirnov Viktor 77770076877 Armavir 0 6 3 2001
+Sokolov Vladimir 79021100098 Apatity 1 Volonter UFC
+Orlov Vladislav 77772955554 Azov 1 Programmist UFC
+Aleksandrov Vikentij 77772955554 Achinsk 1 Volonter UFC
+Aleksandrov Vitalij 79032478917 Armavir 1 Programmist MIT
+Pavlov Voldemar 77770076877 Arzamas 1 Vrach MIT
+Volkov Vasilij 77770076977 Asbest 1 Sanitar MIT
+Sergeev Vladimir 77079517777 Astrahan 0 14 11 1964
+Vasilev Vladislav 77772955554 Aleksin 1 Slesar ICPP
+Ivanov Voldemar 79021100098 Balakovo 0 24 9 2012
+Novikov Vitalij 79032480839 Astrahan 0 29 3 1966
+Petrov Vitalij 79032478845 Angarsk 1 Vrach BMSTU
+Nikolaev Vitalij 77079517777 Asbest 1 Uchitel CRB
+Egorov Vladlen 79032478845 Balahna 1 Vrach UFC
+Nikitin Vilen 77077799795 Apatity 0 1 3 1972
+Dmitriev Valentin 77077799795 Arzamas 1 Volonter ICPP
+Alekseev Viktor 77715797822 Almetevsk 0 24 8 1986
+Orlov Vilen 77770076877 Angarsk 0 15 1 1972
+Morozov Veniamin 79032478979 Apatity 0 17 12 1989
+Kiselev Vilen 77017333190 Abakan 0 4 12 2010
+Kozlov Vikentij 77715797822 Astrahan 0 11 2 2011
+Vorobev Vladislav 77017333190 Astrahan 0 16 12 1969
+Mihajlov Vissarion 77772955554 Abakan 1 Uchitel MIT
+Kuzmin Vladlen 77074909644 Balahna 0 12 6 1958
+Novikov Viktor 77019381234 Aleksandrov 0 28 8 1952
+Borisov Vasilij 77770076877 Astrahan 0 6 3 2010
+Lebedev Vissarion 77772955554 Aleksandrov 1 Volonter CRB
+Mihajlov Vladimir 79032478845 Arzamas 0 28 7 1964
+Kozlov Vyacheslav 77770076977 Angarsk 1 Uchitel BOMONKA
+Volkov Vladlen 79021100099 Aleksandrov 1 Vrach GOOGLE
+Sergeev Valentin 77074909644 Arhangelsk 1 Sanitar BOMONKA
+Kuznecov Valerij 77787483377 Anapa 1 Uchitel MIT
+Pavlov Vsevolod 77017333190 Achinsk 1 Slesar MIT
+Alekseev Vladimir 77079517777 Abakan 0 30 2 1952
+Nikolaev Vyacheslav 77770076977 Anapa 0 16 6 1993
+Makarov Vilen 77715797822 Balahna 0 24 1 1988
+Solovev Vadim 77019381234 Astrahan 1 Programmist MIT
+Vorobev Veniamin 77077799795 Apatity 0 6 9 1966
+Lebedev Vladimir 77027773690 Aleksin 0 9 8 2017
+Dmitriev Vladislav 79032478917 Asbest 1 Vrach BOMONKA
+Mihajlov Valentin 77027773690 Asbest 1 Uchitel MIT
+Lebedev Vladimir 77077799795 Achinsk 1 Slesar ICPP
+Morozov Vladislav 79032478979 Azov 0 9 8 1972
+Nikitin Vadim 79021100098 Abakan 0 9 9 1969
+Gusev Vilen 77787683377 Aleksandrov 0 4 8 1982
+Vorobev Vladimir 77017333190 Aleksandrov 0 6 1 1974
+Frolov Vlad 77770076977 Balahna 0 11 4 1991
+Grigorev Vladlen 77715740077 Asbest 0 4 6 1999
+Gusev Valentin 77714927700 Aleksandrov 1 Santehnik ICPP
+Popov Vyacheslav 79032478845 Aleksin 0 24 3 2007
+Nikolaev Viktor 77079517777 Anapa 0 1 6 1999
+Vorobev Veniamin 79032478917 Abakan 1 Santehnik ICPP
+Stepanov Vissarion 79021100147 Balahna 1 Santehnik UFC
+Frolov Vitalij 77077799795 Balahna 0 11 11 1960
+Kuzmin Vladislav 79032478979 Arhangelsk 1 Sanitar YANDEX
+Vasilev Vissarion 77057163877 Arzamas 0 7 6 1962
+Petrov Vissarion 79021100098 Armavir 0 22 11 1951
+Orlov Valerij 77057163877 Balahna 0 19 10 2018
+Orlov Vissarion 77019381234 Armavir 0 11 1 1983
+Semenov Voldemar 77787483377 Arhangelsk 1 Volonter YANDEX
+Smirnov Veniamin 79021100147 Abakan 0 19 12 1969
+Sergeev Vitalij 77019381234 Azov 1 Uchitel UFC
+Frolov Vladimir 77074909644 Abakan 0 26 9 1967
+Vasilev Vladislav 77079517777 Achinsk 1 Slesar CRB
+Kuzmin Viktor 77715740077 Almetevsk 1 Uchitel BMSTU
+Kiselev Vikentij 77770076977 Balakovo 1 Vrach MIT
+Orlov Vladlen 79032480839 Arzamas 1 Slesar ICPP
+Nikitin Vladlen 77017333190 Apatity 1 Uchitel ICPP
+Volkov Vladlen 77787483377 Achinsk 1 Santehnik UFC
+YAkovlev Vikentij 77057163877 Angarsk 0 24 8 1971
+Andreev Vsevolod 77770076877 Almetevsk 0 14 12 1970
+Makarov Valerij 77077799795 Aleksin 0 1 3 2011
+Morozov Vsevolod 77027773690 Anapa 0 7 2 1998
+Kuznecov Valerij 79021100098 Aleksandrov 0 4 6 1983
+Dmitriev Vladlen 77057163877 Astrahan 1 Volonter BMSTU
+Alekseev Valerij 77027773690 Astrahan 1 Uchitel YANDEX
+Dmitriev Vladislav 79032480839 Aleksin 0 29 5 1974
+Andreev Vladimir 77057163877 Azov 0 25 2 2001
+Kuznecov Vladimir 77077799795 Anapa 1 Programmist YANDEX
+Kuznecov Voldemar 77017333190 Abakan 0 4 12 1950
+Ivanov Valerij 79032478845 Angarsk 1 Vrach MIT
+Andreev Valentin 77027773690 Arzamas 1 Slesar MIT
+Makarov Vladislav 77077799795 Aleksandrov 1 Sanitar GOOGLE
+Sergeev Vitalij 77770076977 Aleksandrov 0 23 5 1968
+Semenov Vissarion 79032478845 Almetevsk 0 5 10 2018
+Kuznecov Vikentij 79032480839 Balahna 0 16 2 2011
+Fedorov Vissarion 79032478917 Balahna 1 Vrach BMSTU
+Zaharov Vadim 79032478845 Arhangelsk 0 15 9 1965
+Mihajlov Vikentij 77770076977 Balakovo 0 17 2 1997
+Alekseev Vlad 79032478979 Asbest 0 6 11 1966
+Aleksandrov Vladislav 77770076877 Asbest 1 Volonter YANDEX
+Volkov Vladlen 77027773690 Aleksandrov 0 3 7 1983
+Orlov Vyacheslav 79021100099 Azov 1 Santehnik MIT
+Kuznecov Vladislav 77770076877 Asbest 1 Slesar GOOGLE
+Stepanov Vissarion 79032478845 Balakovo 0 3 3 2012
+Dmitriev Veniamin 77057163877 Almetevsk 1 Sanitar YANDEX
+Mihajlov Vikentij 79032478845 Anapa 0 2 7 1956
+Fedorov Voldemar 79021100098 Angarsk 1 Santehnik CRB
+Morozov Vikentij 77714927700 Balahna 0 15 8 2007
+Kozlov Veniamin 77770076877 Abakan 1 Slesar BMSTU
+Morozov Vitalij 79032478979 Arhangelsk 0 16 11 1969
+Smirnov Vyacheslav 77787483377 Anapa 1 Slesar MIT
+Morozov Voldemar 79032478979 Aleksin 0 23 5 1961
+Nikolaev Voldemar 79032478917 Anapa 1 Programmist BOMONKA
+Borisov Vissarion 79032478979 Arhangelsk 1 Volonter BOMONKA
+Lebedev Vladimir 77019381234 Armavir 0 2 8 1967
+Alekseev Vlad 77787483377 Apatity 0 10 7 1988
+Korolev Vyacheslav 79021100098 Aleksandrov 1 Programmist ICPP
+Smirnov Vasilij 77714927700 Apatity 0 10 7 1989
+Petrov Vikentij 79032478845 Angarsk 0 27 5 1969
+Morozov Vladimir 77787683377 Apatity 1 Slesar BMSTU
+Lebedev Vladimir 79032478917 Aleksin 1 Sanitar ICPP
+YAkovlev Veniamin 77079517777 Astrahan 1 Santehnik MIT
+Mihajlov Veniamin 77074909644 Angarsk 1 Programmist CRB
+Alekseev Vitalij 79021100147 Almetevsk 1 Uchitel BOMONKA
+Popov Vladislav 77074909644 Arzamas 0 13 3 2012
+Solovev Viktor 77017333190 Anapa 1 Vrach BOMONKA
+Alekseev Valentin 77017333190 Anapa 1 Slesar YANDEX
+Zajcev Vladislav 77017333190 Anapa 1 Uchitel BOMONKA
+Volkov Vsevolod 77079517777 Abakan 0 2 2 2014
+Egorov Vitalij 77057163877 Astrahan 1 Volonter ICPP
+Pavlov Vitalij 77770076877 Asbest 1 Programmist YANDEX
+Morozov Vyacheslav 77772955554 Aleksandrov 1 Volonter UFC
+Grigorev Vasilij 77079517777 Arzamas 0 2 11 1981
+Zaharov Viktor 79021100147 Arzamas 0 12 4 1960
+Fedorov Veniamin 77787483377 Balakovo 1 Programmist BOMONKA
+Zaharov Vasilij 79032478845 Balahna 0 21 8 2017
+Ivanov Veniamin 77772955554 Balahna 0 25 4 1959
+Mihajlov Voldemar 79032478979 Anapa 0 23 9 2005
+Gusev Voldemar 77715740077 Astrahan 0 16 7 1958
+Andreev Vladislav 79032478845 Azov 0 29 8 1971
+Frolov Vlad 77077799795 Armavir 1 Programmist CRB
+Zajcev Vikentij 77019381234 Achinsk 1 Santehnik BMSTU
+Ivanov Vasilij 77772955554 Asbest 1 Slesar ICPP
+Fedorov Vasilij 79032480839 Aleksin 0 30 12 2000
+Volkov Veniamin 79032478979 Azov 0 19 11 1954
+Vasilev Vilen 77074909644 Azov 1 Programmist MIT
+Aleksandrov Vlad 77027773690 Azov 1 Uchitel GOOGLE
+Kiselev Valerij 77715740077 Anapa 0 7 9 2009
+Mihajlov Vadim 79032478917 Armavir 0 28 9 1994
+Sergeev Vyacheslav 77770076877 Anapa 0 10 5 1981
+Borisov Vsevolod 79021100147 Almetevsk 1 Santehnik BOMONKA
+Korolev Vadim 77715797822 Astrahan 1 Slesar ICPP
+Novikov Vsevolod 77787683377 Asbest 1 Sanitar UFC
+Orlov Vitalij 77715740077 Balakovo 0 9 9 1971
+YAkovlev Voldemar 77770076877 Balahna 1 Sanitar UFC
+Solovev Valerij 77074909644 Arhangelsk 1 Slesar ICPP
+Nikolaev Viktor 79032478979 Almetevsk 1 Programmist BMSTU
+Morozov Voldemar 77079517777 Abakan 1 Vrach UFC
+Sergeev Veniamin 79021100098 Apatity 1 Uchitel UFC
+Frolov Vilen 77772955554 Arhangelsk 0 22 4 1969
+Vasilev Vsevolod 79021100098 Achinsk 0 29 4 2014
+Nikolaev Vikentij 79021100147 Azov 1 Volonter CRB
+Zajcev Veniamin 77770076977 Achinsk 1 Santehnik UFC
+Fedorov Viktor 77057163877 Armavir 0 13 1 1968
+Lebedev Vladlen 77787683377 Azov 1 Sanitar CRB
+Romanov Vadim 79032478917 Anapa 1 Sanitar CRB
+Pavlov Vladlen 77057163877 Achinsk 0 25 12 2002
+Novikov Vadim 77787683377 Armavir 0 25 9 2016
+Egorov Vsevolod 79032478917 Apatity 1 Santehnik MIT
+Grigorev Valerij 77715740077 Azov 0 14 10 1975
+Pavlov Vissarion 77057163877 Balakovo 0 24 4 1973
+Kiselev Veniamin 77714927700 Arzamas 1 Programmist MIT
+Vorobev Vladislav 77057163877 Balakovo 0 12 10 2006
+Stepanov Vikentij 77770076877 Apatity 0 10 5 2015
+Fedorov Vitalij 77770076877 Arzamas 0 19 7 1987
+Zaharov Vissarion 79032478845 Aleksin 1 Sanitar CRB
+Vasilev Voldemar 79021100098 Arhangelsk 0 17 10 1976
+Borisov Veniamin 79021100147 Almetevsk 1 Sanitar YANDEX
+Solovev Vladislav 77077799795 Abakan 1 Slesar UFC
+Stepanov Vitalij 79032478979 Aleksandrov 1 Volonter BMSTU
+Popov Vladlen 79032478845 Aleksandrov 0 3 8 2013
+Kuznecov Viktor 77787683377 Arzamas 0 5 9 2008
+Kiselev Vsevolod 77770076977 Azov 1 Volonter CRB
+Stepanov Viktor 77772955554 Balakovo 0 21 12 1997
+Egorov Vlad 79021100147 Aleksin 0 20 2 1974
+Petrov Vyacheslav 77715797822 Balakovo 0 8 9 2018
+Andreev Vitalij 77787683377 Arzamas 1 Sanitar GOOGLE
+Vasilev Vasilij 77787683377 Asbest 1 Sanitar GOOGLE
+Gusev Viktor 77019381234 Azov 0 26 1 1963
+Fedorov Vitalij 79032480839 Almetevsk 1 Programmist UFC
+Sokolov Vilen 77077799795 Apatity 1 Programmist BOMONKA
+Vorobev Valentin 77770076877 Asbest 0 14 12 2014
+Nikolaev Vladlen 79032478917 Asbest 0 11 2 2019
+Vasilev Vladlen 79032478845 Almetevsk 1 Uchitel UFC
+Dmitriev Vikentij 77772955554 Apatity 1 Sanitar YANDEX
+Andreev Vladlen 77714927700 Armavir 1 Vrach GOOGLE
+Korolev Vladlen 77077799795 Astrahan 0 12 7 1971
+Semenov Vsevolod 79032480839 Balakovo 0 27 10 1955
+Aleksandrov Vasilij 77019381234 Arhangelsk 1 Vrach BMSTU
+YAkovlev Vyacheslav 77715797822 Balahna 1 Volonter CRB
+Alekseev Vadim 77027773690 Astrahan 0 14 8 2003
+Gusev Vissarion 77017333190 Achinsk 1 Slesar YANDEX
+Nikitin Valentin 77715740077 Anapa 0 1 3 1955
+Nikolaev Vikentij 79032478845 Arhangelsk 1 Slesar GOOGLE
+Morozov Vasilij 79021100098 Armavir 0 14 3 1956
+Dmitriev Vasilij 79032478917 Arhangelsk 0 27 4 1950
+Vasilev Vikentij 77017333190 Balahna 0 8 4 2009
+Sokolov Vilen 79032478845 Azov 0 18 4 1971
+Nikitin Viktor 77027773690 Balahna 0 24 1 1956
+Gusev Vlad 79021100099 Almetevsk 1 Santehnik UFC
+Smirnov Voldemar 77772955554 Apatity 1 Slesar YANDEX
+Nikitin Vitalij 77772955554 Anapa 0 26 10 1975
+Mihajlov Vikentij 79021100098 Balakovo 0 25 3 2006
+Makarov Vikentij 77027773690 Aleksin 0 21 12 1992
+Egorov Vlad 77079517777 Armavir 0 29 3 1969
+Zajcev Vissarion 77714927700 Balahna 1 Santehnik ICPP
+Makarov Valerij 79032478845 Azov 0 22 6 2011
+Andreev Vikentij 79032478917 Aleksandrov 1 Sanitar YANDEX
+Alekseev Voldemar 79021100098 Arzamas 1 Sanitar GOOGLE
+Korolev Voldemar 77772955554 Angarsk 1 Vrach BOMONKA
+Nikitin Vissarion 79021100098 Almetevsk 0 27 4 2002
+Kiselev Vlad 79032478917 Aleksandrov 1 Sanitar CRB
+Nikitin Vladlen 77770076877 Azov 1 Santehnik ICPP
+Kiselev Voldemar 77027773690 Angarsk 0 13 2 1993
+Nikitin Valentin 77027773690 Astrahan 0 3 6 2006
+Alekseev Vladislav 77077799795 Arhangelsk 0 2 4 1975
+Kuzmin Vikentij 77772955554 Arzamas 0 25 9 1974
+Kuzmin Viktor 77787483377 Aleksin 1 Programmist ICPP
+Lebedev Vikentij 77074909644 Almetevsk 1 Sanitar BMSTU
+Korolev Vsevolod 77074909644 Armavir 1 Santehnik MIT
+Petrov Vitalij 79032478979 Balahna 0 20 2 1975
+Nikolaev Vladimir 77057163877 Asbest 1 Sanitar BOMONKA
+Vorobev Veniamin 79032480839 Arzamas 1 Santehnik ICPP
+Solovev Viktor 79032480839 Arhangelsk 0 7 12 2018
+Smirnov Vyacheslav 77787483377 Astrahan 0 22 7 1996
+Vasilev Vissarion 79021100098 Angarsk 1 Volonter ICPP
+Novikov Vissarion 79032478917 Arzamas 0 7 7 1976
+Sergeev Vladislav 77019381234 Arzamas 1 Uchitel BMSTU
+Grigorev Viktor 77770076877 Abakan 0 19 9 2004
+Aleksandrov Vyacheslav 77714927700 Aleksandrov 0 7 4 2005
+Fedorov Vitalij 77019381234 Abakan 0 16 11 1987
+Kiselev Vasilij 77019381234 Aleksandrov 0 17 6 1995
+Zajcev Vadim 77714927700 Arzamas 1 Programmist GOOGLE
+Makarov Vissarion 77079517777 Angarsk 0 2 5 1992
+Semenov Vladlen 79021100098 Aleksandrov 1 Volonter MIT
+Novikov Vladlen 77057163877 Almetevsk 0 14 1 1962
+Morozov Vlad 77017333190 Arhangelsk 1 Volonter GOOGLE
+Vasilev Vsevolod 77770076877 Balahna 1 Santehnik ICPP
+Romanov Voldemar 77770076877 Asbest 1 Slesar BOMONKA
+Makarov Vissarion 79032480839 Aleksin 0 6 9 2009
+Alekseev Valentin 77715740077 Astrahan 0 30 9 1994
+Gusev Veniamin 79032478845 Aleksandrov 1 Sanitar CRB
+Novikov Valentin 77772955554 Arzamas 0 4 12 1970
+Lebedev Vissarion 77787683377 Aleksandrov 0 4 9 1985
+Petrov Viktor 77787683377 Arhangelsk 0 8 10 1951
+Borisov Vissarion 79032478845 Azov 1 Santehnik UFC
+Petrov Vladlen 77057163877 Arzamas 1 Vrach BOMONKA
+Kiselev Vyacheslav 77772955554 Azov 0 4 8 1964
+Popov Vitalij 77019381234 Apatity 0 20 4 1996
+Aleksandrov Voldemar 77715740077 Balahna 1 Sanitar ICPP
+Volkov Vadim 77079517777 Anapa 0 3 8 2017
+Sokolov Vyacheslav 77017333190 Achinsk 0 2 12 1974
+Frolov Valentin 77770076877 Astrahan 1 Vrach BOMONKA
+Kozlov Valerij 77770076877 Aleksandrov 1 Sanitar ICPP
+Lebedev Vlad 77027773690 Armavir 1 Uchitel UFC
+Vasilev Valentin 77787483377 Almetevsk 1 Sanitar ICPP
+YAkovlev Vladlen 79032480839 Astrahan 1 Vrach GOOGLE
+Aleksandrov Vilen 77079517777 Anapa 1 Uchitel ICPP
+Volkov Vlad 79032478917 Apatity 0 12 3 1968
+Volkov Vissarion 79032478917 Asbest 0 26 9 1954
+Dmitriev Vsevolod 77770076977 Arhangelsk 1 Uchitel YANDEX
+Zajcev Vsevolod 79032478845 Abakan 1 Santehnik CRB
+Pavlov Voldemar 79032478979 Anapa 0 26 12 1968
+Popov Vissarion 79032478917 Astrahan 1 Programmist GOOGLE
+Aleksandrov Vsevolod 77787483377 Anapa 0 20 7 2014
+Kiselev Vyacheslav 77772955554 Anapa 0 15 1 2015
+Orlov Valentin 79032478979 Balakovo 1 Sanitar BOMONKA
+Sergeev Valentin 79021100099 Aleksin 0 11 10 1992
+Zaharov Vladlen 77019381234 Apatity 1 Vrach YANDEX
+Solovev Valentin 77019381234 Apatity 1 Vrach MIT
+Kozlov Voldemar 77019381234 Arzamas 0 29 9 2013
+Frolov Vlad 77787483377 Achinsk 1 Programmist UFC
+Mihajlov Vitalij 77074909644 Balahna 0 17 10 1995
+Zaharov Vladlen 77787683377 Arhangelsk 0 25 4 2005
+Dmitriev Vladimir 77714927700 Almetevsk 1 Santehnik CRB
+Smirnov Viktor 77079517777 Aleksandrov 0 23 2 2002
+Smirnov Valerij 77027773690 Almetevsk 1 Sanitar UFC
+Nikolaev Vladlen 79021100099 Anapa 1 Volonter BOMONKA
+Mihajlov Vladlen 79032478979 Arhangelsk 0 9 2 1972
+Vasilev Vladlen 77077799795 Azov 0 19 6 1955
+Nikolaev Vissarion 77715797822 Asbest 0 17 1 1974
+Kuznecov Vikentij 79032478845 Abakan 0 3 12 1967
+Mihajlov Valentin 77077799795 Almetevsk 0 11 5 1979
+Novikov Vasilij 79021100099 Angarsk 1 Sanitar BOMONKA
+Stepanov Vladlen 77074909644 Aleksin 0 9 3 1965
+Smirnov Vlad 77079517777 Armavir 0 1 10 2019
+Solovev Vladimir 79032480839 Balakovo 0 3 5 2001
+Semenov Vyacheslav 77017333190 Almetevsk 1 Slesar ICPP
+Andreev Vissarion 79032478979 Armavir 0 27 11 1954
+Mihajlov Viktor 77074909644 Balakovo 0 7 3 1993
+Orlov Veniamin 77715797822 Almetevsk 1 Sanitar BOMONKA
+Kuzmin Vitalij 79021100099 Astrahan 0 16 10 1961
+Vasilev Viktor 79021100098 Astrahan 1 Volonter CRB
+Aleksandrov Vitalij 77772955554 Apatity 0 11 11 1970
+Egorov Vyacheslav 77074909644 Angarsk 0 2 2 2020
+Nikitin Vyacheslav 77019381234 Astrahan 1 Santehnik CRB
+Novikov Vilen 79021100099 Azov 0 17 12 1978
+Nikolaev Vasilij 77715740077 Almetevsk 1 Slesar MIT
+Korolev Vitalij 77772955554 Arzamas 1 Santehnik ICPP
+Makarov Veniamin 77017333190 Aleksin 1 Sanitar CRB
+YAkovlev Vlad 77017333190 Apatity 1 Uchitel BOMONKA
+Nikolaev Valentin 77057163877 Arzamas 1 Vrach MIT
+Aleksandrov Vyacheslav 77715740077 Asbest 0 1 1 1992
+Dmitriev Voldemar 77715740077 Azov 0 7 7 2020
+Kuznecov Viktor 77057163877 Apatity 1 Vrach BOMONKA
+Zaharov Vladlen 79021100147 Arhangelsk 1 Sanitar YANDEX
+Alekseev Vladlen 77715797822 Armavir 1 Uchitel BOMONKA
+Egorov Vadim 77715797822 Angarsk 1 Slesar BMSTU
+YAkovlev Vlad 79021100098 Armavir 1 Uchitel YANDEX
+Nikolaev Vladlen 79032478845 Aleksin 1 Programmist YANDEX
+Morozov Valentin 77770076977 Achinsk 1 Uchitel ICPP
+Egorov Vlad 77770076977 Aleksandrov 1 Uchitel YANDEX
+Kiselev Voldemar 77079517777 Angarsk 0 18 8 1962
+Ivanov Vyacheslav 79021100147 Aleksandrov 0 24 4 1968
+Kiselev Vsevolod 77715797822 Angarsk 0 10 2 2007
+Kiselev Valentin 79021100147 Arhangelsk 0 15 12 1976
+Popov Veniamin 77077799795 Balakovo 0 22 8 1968
+Pavlov Valentin 79021100147 Almetevsk 1 Vrach ICPP
+Pavlov Vadim 77714927700 Balakovo 1 Slesar ICPP
+Morozov Valerij 77772955554 Azov 1 Uchitel BMSTU
+Petrov Vladlen 77074909644 Angarsk 1 Sanitar ICPP
+Zajcev Vladlen 79032478979 Aleksin 0 11 9 1994
+Nikitin Valerij 77787683377 Aleksin 1 Santehnik YANDEX
+Lebedev Valerij 77770076977 Balakovo 1 Vrach BOMONKA
+Andreev Viktor 77770076977 Abakan 0 20 12 1951
+Kuzmin Vyacheslav 77715797822 Arhangelsk 0 15 9 2002
+Lebedev Veniamin 77077799795 Aleksandrov 1 Santehnik UFC
+Solovev Vlad 77770076977 Anapa 1 Vrach MIT
+Makarov Viktor 77714927700 Apatity 0 10 7 2012
+Borisov Vladislav 77772955554 Armavir 0 25 3 1954
+Vasilev Vyacheslav 79032480839 Aleksin 0 11 5 2010
+Kuznecov Vladimir 77019381234 Abakan 0 26 3 2012
+Semenov Valentin 77715740077 Aleksin 0 25 4 2012
+Kuzmin Vissarion 79021100098 Aleksin 1 Sanitar GOOGLE
+Nikitin Veniamin 77027773690 Almetevsk 0 27 10 1984
+Solovev Vikentij 79032478979 Balahna 0 8 7 1970
+Novikov Vadim 79032478845 Arhangelsk 1 Vrach MIT
+Korolev Vilen 79021100147 Arzamas 0 1 3 1961
+Sergeev Veniamin 77714927700 Arzamas 1 Programmist BMSTU
+Ivanov Vladimir 79032478845 Achinsk 1 Slesar CRB
+Volkov Vikentij 77714927700 Arhangelsk 0 29 6 1957
+Popov Valerij 77077799795 Abakan 0 30 6 1975
+Kozlov Vitalij 77787683377 Armavir 1 Santehnik ICPP
+Gusev Viktor 77770076877 Asbest 1 Uchitel BMSTU
+YAkovlev Veniamin 77787683377 Angarsk 1 Uchitel BOMONKA
+Kiselev Vsevolod 77772955554 Apatity 0 3 10 2014
+Popov Vlad 77019381234 Abakan 1 Slesar UFC
+Borisov Valentin 77770076977 Apatity 0 5 1 1988
+Grigorev Vladislav 77017333190 Balahna 0 21 12 1954
+YAkovlev Vlad 77787683377 Apatity 1 Slesar ICPP
+Novikov Vikentij 77027773690 Aleksandrov 1 Vrach YANDEX
+Nikolaev Vitalij 77079517777 Arhangelsk 0 11 10 1983
+Alekseev Voldemar 77057163877 Azov 1 Santehnik MIT
+Petrov Voldemar 77715740077 Balakovo 0 26 2 2012
+Novikov Vasilij 77787683377 Astrahan 1 Uchitel YANDEX
+Pavlov Vladimir 77770076977 Azov 0 13 5 2014
+Makarov Vlad 77017333190 Anapa 0 10 2 1994
+Sokolov Vladlen 77077799795 Balakovo 0 21 10 1973
+Kuznecov Vikentij 77079517777 Arhangelsk 0 30 12 1951
+Orlov Vikentij 79032478845 Apatity 0 12 6 2019
+Korolev Veniamin 77079517777 Armavir 1 Santehnik CRB
+Sokolov Vlad 79032478979 Aleksin 0 13 10 1979
+Kuznecov Vitalij 79032478979 Aleksin 0 24 8 1979
+Novikov Valentin 79021100098 Angarsk 1 Volonter BOMONKA
+Makarov Valentin 77715740077 Astrahan 1 Uchitel GOOGLE
+Mihajlov Veniamin 77079517777 Apatity 1 Sanitar CRB
+Kuznecov Vladislav 77057163877 Asbest 0 16 6 1996
+Dmitriev Vladimir 77079517777 Armavir 1 Volonter YANDEX
+Grigorev Vasilij 77057163877 Asbest 1 Santehnik CRB
+YAkovlev Vyacheslav 77027773690 Azov 1 Volonter MIT
+Grigorev Vyacheslav 77772955554 Angarsk 0 28 11 1998
+Fedorov Valentin 77787483377 Apatity 1 Santehnik BMSTU
+Volkov Vissarion 77017333190 Anapa 0 16 8 1951
+Fedorov Vladislav 79032478845 Aleksandrov 0 12 1 1989
+Kuzmin Veniamin 77074909644 Apatity 1 Slesar GOOGLE
+Kiselev Valentin 79032478917 Astrahan 0 16 12 1986
+Nikolaev Vlad 77074909644 Balakovo 1 Programmist CRB
+Solovev Valerij 77017333190 Arzamas 0 16 12 1985
+Borisov Vladlen 77787483377 Almetevsk 0 25 11 1982
+Novikov Viktor 77027773690 Apatity 0 19 8 1961
+Gusev Vadim 77077799795 Azov 0 1 4 1987
+YAkovlev Valerij 77027773690 Arhangelsk 0 13 11 2005
+Dmitriev Vladlen 77057163877 Arzamas 1 Santehnik YANDEX
+Semenov Vsevolod 77787683377 Achinsk 1 Programmist CRB
+Ivanov Voldemar 77077799795 Arhangelsk 1 Santehnik GOOGLE
+Zaharov Vladimir 79021100147 Anapa 1 Santehnik CRB
+Kuznecov Vyacheslav 77079517777 Asbest 0 1 12 1959
+Vorobev Viktor 77017333190 Azov 1 Uchitel GOOGLE
+Semenov Vladimir 77770076977 Balahna 0 2 9 1969
+Popov Vissarion 77057163877 Angarsk 0 2 10 1953
+Aleksandrov Veniamin 77770076877 Arzamas 1 Uchitel BOMONKA
+Sokolov Valentin 79021100147 Apatity 0 10 4 2006
+Popov Vyacheslav 77715740077 Balakovo 1 Vrach CRB
+Borisov Valentin 77715797822 Balakovo 1 Slesar GOOGLE
+Zaharov Vlad 77077799795 Astrahan 1 Sanitar ICPP
+Mihajlov Vissarion 79032478845 Arzamas 1 Santehnik UFC
+Egorov Veniamin 79021100098 Almetevsk 0 23 7 1953
+Pavlov Vissarion 77074909644 Balakovo 1 Santehnik YANDEX
+Stepanov Vladlen 79021100098 Abakan 0 16 5 1991
+Borisov Vlad 77077799795 Abakan 0 7 4 1989
+Smirnov Vyacheslav 79021100098 Armavir 1 Volonter BOMONKA
+Mihajlov Vladislav 79032478979 Astrahan 1 Slesar UFC
+Semenov Voldemar 77787683377 Arzamas 1 Santehnik CRB
+Lebedev Vasilij 77770076877 Aleksin 0 26 10 1983
+Morozov Valentin 79032478917 Achinsk 1 Santehnik MIT
+Nikitin Vitalij 77770076977 Almetevsk 1 Vrach UFC
+Zajcev Vasilij 79032478845 Balakovo 1 Sanitar UFC
+Stepanov Vladimir 79021100099 Azov 1 Programmist MIT
+Orlov Vlad 77079517777 Balakovo 0 10 5 1983
+Nikitin Vasilij 77057163877 Armavir 1 Uchitel UFC
+Solovev Voldemar 77017333190 Asbest 0 6 7 1979
+Andreev Vasilij 79032480839 Balahna 1 Uchitel GOOGLE
+Petrov Vasilij 77079517777 Achinsk 1 Uchitel BMSTU
+Zaharov Vilen 77079517777 Aleksin 0 13 2 2007
+Alekseev Vladlen 77017333190 Armavir 1 Programmist MIT
+Smirnov Vyacheslav 79021100099 Balahna 1 Vrach GOOGLE
+Lebedev Vikentij 79032478845 Arzamas 0 22 3 2018
+Volkov Vlad 79021100147 Balahna 1 Sanitar UFC
+Popov Valentin 77079517777 Asbest 0 3 6 2014
+YAkovlev Valerij 77787483377 Asbest 0 5 4 2020
+Kuznecov Valerij 77715740077 Armavir 0 7 6 2018
+Petrov Vikentij 79032478917 Aleksandrov 1 Programmist ICPP
+Alekseev Vilen 79032478845 Anapa 0 22 9 1974
+Ivanov Vladimir 79032480839 Angarsk 1 Programmist CRB
+Aleksandrov Vitalij 79021100099 Balakovo 1 Vrach MIT
+Andreev Vsevolod 77770076877 Balakovo 1 Slesar BOMONKA
+Borisov Vladimir 77772955554 Abakan 1 Programmist GOOGLE
+Orlov Vladimir 79032480839 Balakovo 0 23 11 2020
+Korolev Vyacheslav 77772955554 Asbest 1 Slesar GOOGLE
+Alekseev Vlad 77027773690 Abakan 0 23 3 1977
+Morozov Vasilij 77074909644 Aleksandrov 1 Sanitar MIT
+Sergeev Valerij 77770076977 Abakan 0 22 3 1983
+Kuzmin Vasilij 77019381234 Apatity 0 22 9 1961
+Gusev Vasilij 77074909644 Achinsk 0 26 9 2007
+Volkov Vissarion 77787683377 Azov 1 Vrach UFC
+Borisov Vikentij 77787683377 Arhangelsk 0 16 7 2003
+Pavlov Vladislav 77079517777 Armavir 1 Vrach ICPP
+Sergeev Vilen 77057163877 Balakovo 0 18 5 2005
+Kiselev Vsevolod 77079517777 Balakovo 1 Volonter BMSTU
+Petrov Vyacheslav 77772955554 Aleksandrov 0 10 6 1959
+Zaharov Vyacheslav 77787683377 Armavir 1 Volonter CRB
+Frolov Voldemar 77027773690 Angarsk 0 5 4 1986
+Borisov Vasilij 77714927700 Anapa 0 4 4 1996
+Zaharov Viktor 79032478979 Astrahan 1 Vrach UFC
+Aleksandrov Vlad 77077799795 Arhangelsk 0 21 2 2006
+Borisov Vladislav 79032480839 Anapa 0 12 7 1976
+Vasilev Vikentij 77019381234 Aleksin 0 23 8 1951
+Nikitin Vitalij 79021100099 Armavir 1 Santehnik MIT
+Kuzmin Vladislav 79032478845 Anapa 1 Vrach BMSTU
+Zajcev Vsevolod 79021100099 Balahna 1 Uchitel GOOGLE
+Smirnov Vsevolod 77787483377 Balahna 0 13 5 2014
+Sergeev Vitalij 77715797822 Aleksandrov 0 5 2 2007
+YAkovlev Veniamin 77079517777 Balahna 1 Vrach BOMONKA
+Mihajlov Viktor 79032478917 Anapa 0 27 9 2009
+Grigorev Vladlen 79032480839 Apatity 0 17 10 1959
+Stepanov Vlad 77715797822 Aleksandrov 1 Vrach YANDEX
+Frolov Viktor 77787483377 Aleksandrov 1 Programmist BOMONKA
+Morozov Vitalij 79032478979 Armavir 1 Volonter GOOGLE
+Zajcev Valentin 77714927700 Apatity 0 6 5 1963
+Petrov Vladimir 77772955554 Balahna 1 Vrach YANDEX
+Mihajlov Vitalij 77715740077 Arzamas 1 Programmist YANDEX
+Smirnov Voldemar 79021100099 Achinsk 0 21 4 1969
+YAkovlev Valerij 77770076877 Apatity 0 23 12 2004
+Sergeev Vilen 79032478845 Asbest 0 13 8 2010
+Gusev Vasilij 79021100099 Anapa 1 Volonter MIT
+Stepanov Vilen 79021100098 Abakan 1 Vrach ICPP
+Vorobev Vitalij 77019381234 Arzamas 1 Uchitel MIT
+Kuznecov Vadim 79032478845 Asbest 0 10 2 1988
+Morozov Vladislav 77079517777 Aleksandrov 0 21 8 1994
+Lebedev Vladislav 77772955554 Azov 0 11 12 1962
+Fedorov Vasilij 77079517777 Astrahan 1 Programmist YANDEX
+Frolov Valerij 77715740077 Asbest 1 Programmist BMSTU
+Romanov Vlad 77772955554 Aleksandrov 1 Vrach MIT
+Petrov Veniamin 77017333190 Balahna 1 Santehnik GOOGLE
+Ivanov Vladislav 79021100099 Achinsk 0 27 5 1960
+Kuznecov Veniamin 79032480839 Aleksandrov 1 Vrach CRB
+Volkov Vikentij 77770076877 Balahna 1 Sanitar YANDEX
+Egorov Vilen 77770076877 Arhangelsk 1 Vrach BOMONKA
+Makarov Veniamin 77787683377 Abakan 0 2 6 1955
+Popov Veniamin 79021100147 Armavir 0 17 3 1960
+Sergeev Valentin 77787483377 Angarsk 1 Sanitar BMSTU
+Kozlov Valentin 79032480839 Aleksin 0 20 2 2014
+Makarov Vitalij 79032478845 Arhangelsk 1 Volonter ICPP
+Solovev Vladlen 77079517777 Arhangelsk 1 Programmist YANDEX
+Petrov Vilen 79032478917 Aleksandrov 0 24 2 2015
+Orlov Vyacheslav 77057163877 Astrahan 0 26 6 1963
+Alekseev Vladimir 79032478979 Anapa 0 9 3 1969
+Lebedev Vitalij 77074909644 Achinsk 0 18 1 1962
+Nikolaev Vladimir 77057163877 Armavir 1 Sanitar ICPP
+Pavlov Vsevolod 77027773690 Armavir 1 Programmist ICPP
+Frolov Voldemar 79032478979 Abakan 1 Uchitel MIT
+Sokolov Vitalij 77027773690 Achinsk 1 Slesar ICPP
+Semenov Vissarion 77787483377 Azov 1 Volonter MIT
+Fedorov Vasilij 77770076977 Astrahan 1 Sanitar GOOGLE
+Andreev Vladimir 79021100147 Aleksin 0 24 12 2016
+Kozlov Voldemar 77772955554 Aleksandrov 0 3 6 1965
+Morozov Vsevolod 77714927700 Aleksandrov 0 15 9 1950
+Gusev Vitalij 77715797822 Asbest 0 5 8 2014
+Kuzmin Vilen 77787483377 Achinsk 1 Santehnik YANDEX
+Lebedev Vikentij 79032478979 Angarsk 1 Vrach UFC
+Dmitriev Vissarion 79032478845 Asbest 0 29 8 2017
+Egorov Vladislav 77770076977 Abakan 0 2 6 1971
+Mihajlov Vissarion 77079517777 Aleksandrov 1 Volonter GOOGLE
+Egorov Viktor 77077799795 Aleksin 1 Santehnik ICPP
+Semenov Vladlen 77715740077 Anapa 0 10 6 2009
+Sergeev Valentin 79021100098 Balahna 0 16 7 2003
+YAkovlev Vsevolod 79032478917 Balakovo 1 Slesar UFC
+Popov Valentin 77714927700 Azov 1 Uchitel BMSTU
+YAkovlev Vlad 77715797822 Angarsk 0 15 11 2020
+Gusev Vissarion 79032478845 Aleksin 1 Vrach ICPP
+Gusev Valentin 79032478917 Arzamas 1 Volonter UFC
+Andreev Vilen 77057163877 Achinsk 1 Sanitar YANDEX
+Orlov Valentin 79021100147 Arzamas 0 12 8 1952
+Romanov Vyacheslav 77074909644 Apatity 0 20 9 1962
+Fedorov Veniamin 79032478979 Abakan 0 29 4 1972
+Orlov Vladimir 77770076977 Achinsk 0 5 1 2002
+Nikitin Viktor 77714927700 Achinsk 0 29 2 1987
+Novikov Vladlen 77057163877 Azov 1 Santehnik BOMONKA
+Volkov Vadim 77074909644 Armavir 1 Programmist UFC
+Borisov Voldemar 77715740077 Aleksin 0 27 11 1994
+Petrov Veniamin 77715740077 Aleksin 0 12 11 1982
+Kuznecov Vilen 77772955554 Astrahan 0 12 12 1967
+Korolev Vissarion 79032478979 Balahna 0 30 11 1960
+YAkovlev Vikentij 77770076877 Achinsk 0 7 6 1953
+Dmitriev Voldemar 77057163877 Balahna 0 26 7 2010
+Grigorev Vlad 77715797822 Anapa 1 Slesar BOMONKA
+Alekseev Vadim 79032478845 Aleksin 0 10 10 1979
+Fedorov Vlad 77714927700 Arhangelsk 0 27 1 1968
+YAkovlev Vasilij 79021100147 Arzamas 1 Santehnik BMSTU
+Alekseev Voldemar 77772955554 Balahna 1 Programmist UFC
+Romanov Veniamin 79032480839 Astrahan 0 5 5 2013
+YAkovlev Vadim 79021100147 Achinsk 0 28 6 1958
+Zajcev Vlad 79032478845 Achinsk 0 21 6 2017
+Solovev Valentin 77787683377 Astrahan 1 Vrach MIT
+Ivanov Vladimir 77787483377 Astrahan 1 Programmist ICPP
+Makarov Vladimir 77770076877 Almetevsk 0 18 1 1982
+Vasilev Vsevolod 77074909644 Anapa 1 Santehnik CRB
+Nikolaev Veniamin 77770076977 Balakovo 0 19 4 2003
+Egorov Vasilij 79021100147 Achinsk 0 30 3 2002
+Aleksandrov Vladislav 77077799795 Astrahan 0 17 9 2015
+Kuzmin Valerij 79032478917 Balahna 0 10 11 1982
+Zaharov Vladimir 77715740077 Almetevsk 1 Santehnik GOOGLE
+Morozov Vyacheslav 77770076877 Balakovo 0 6 11 1988
+Stepanov Valentin 77715740077 Armavir 1 Uchitel UFC
+Grigorev Vlad 77017333190 Abakan 1 Programmist BOMONKA
+Andreev Valerij 79021100098 Achinsk 0 28 7 2014
+Romanov Viktor 77057163877 Azov 1 Santehnik YANDEX
+Andreev Vasilij 77714927700 Abakan 1 Sanitar ICPP
+Vasilev Vilen 79032478845 Aleksin 1 Vrach BMSTU
+Kuzmin Vitalij 77079517777 Armavir 1 Slesar CRB
+Nikitin Vadim 77772955554 Armavir 1 Volonter BOMONKA
+Pavlov Vladlen 77057163877 Asbest 1 Uchitel BOMONKA
+Kuzmin Vasilij 77074909644 Anapa 0 27 12 1984
+Smirnov Vladislav 79032480839 Azov 0 29 9 2020
+Fedorov Vikentij 77077799795 Aleksandrov 0 8 10 2003
+Nikitin Vissarion 77017333190 Balahna 0 20 5 1996
+Solovev Veniamin 77770076877 Arzamas 0 21 4 1950
+Novikov Vitalij 79032478979 Astrahan 0 24 5 1964
+Smirnov Valerij 77714927700 Aleksandrov 1 Slesar CRB
+Kiselev Vasilij 77077799795 Astrahan 0 18 6 2006
+Korolev Vikentij 79032478845 Anapa 0 8 1 1953
+YAkovlev Valentin 77787483377 Armavir 1 Programmist ICPP
+Ivanov Vlad 79032478845 Asbest 0 7 12 1996
+Novikov Vitalij 79032478845 Arzamas 1 Sanitar CRB
+Zajcev Vlad 79021100147 Azov 0 18 1 2003
+Makarov Vasilij 79032478845 Abakan 0 9 9 1991
+Frolov Valentin 79021100098 Arhangelsk 0 23 4 1983
+Ivanov Vladlen 79021100147 Apatity 1 Sanitar UFC
+Vasilev Vlad 77027773690 Azov 0 15 2 1976
+Dmitriev Vlad 77077799795 Arhangelsk 0 12 6 1959
+Romanov Vyacheslav 77077799795 Azov 1 Programmist MIT
+Andreev Vasilij 79032478917 Almetevsk 0 16 12 2006
+Ivanov Viktor 77787683377 Achinsk 1 Slesar YANDEX
+Andreev Veniamin 77019381234 Balahna 1 Vrach BMSTU
+Solovev Vikentij 77057163877 Asbest 0 11 7 2008
+Grigorev Vikentij 77017333190 Astrahan 0 14 2 1996
+Petrov Vladimir 77772955554 Astrahan 1 Slesar ICPP
+Zaharov Vikentij 77772955554 Aleksandrov 0 23 3 1969
+Morozov Vadim 79032478845 Balahna 0 29 3 1986
+Kozlov Vikentij 79021100147 Asbest 1 Vrach UFC
+Gusev Veniamin 77715797822 Arhangelsk 1 Sanitar ICPP
+Dmitriev Viktor 79021100099 Anapa 1 Santehnik YANDEX
+Andreev Vitalij 77715797822 Aleksin 1 Programmist CRB
+Nikitin Vitalij 79021100147 Aleksin 0 28 1 1982
+Gusev Veniamin 79032478917 Abakan 1 Slesar BMSTU
+Vorobev Vissarion 79032478917 Arzamas 1 Slesar ICPP
+Kuzmin Vissarion 79021100147 Astrahan 1 Sanitar MIT
+Smirnov Veniamin 77787483377 Azov 1 Slesar MIT
+Kuznecov Vasilij 77077799795 Arhangelsk 0 24 5 1963
+Nikitin Veniamin 77787683377 Balakovo 1 Uchitel CRB
+Kiselev Vissarion 79032478979 Aleksandrov 0 6 8 1959
+Ivanov Veniamin 79032478845 Abakan 0 8 5 1955
+Nikolaev Vladislav 77715797822 Armavir 0 11 7 1997
+Fedorov Valerij 77019381234 Asbest 1 Slesar UFC
+Kuznecov Voldemar 77715797822 Balakovo 0 5 10 1994
+Mihajlov Vladislav 77770076977 Balakovo 1 Slesar BOMONKA
+Kuzmin Vikentij 77770076977 Astrahan 0 3 6 1964
+Aleksandrov Valerij 79032478917 Balakovo 1 Programmist GOOGLE
+Kuznecov Vladislav 77770076977 Achinsk 1 Programmist CRB
+Aleksandrov Vladislav 77715740077 Arzamas 0 5 9 1986
+Nikolaev Vladimir 79032478979 Asbest 1 Sanitar GOOGLE
+Novikov Valentin 79032478979 Angarsk 0 9 11 1985
+Smirnov Valentin 79021100147 Aleksandrov 0 19 5 2009
+Egorov Voldemar 79032478979 Arhangelsk 1 Programmist CRB
+YAkovlev Vikentij 77770076977 Almetevsk 1 Programmist BOMONKA
+Morozov Viktor 77787683377 Azov 1 Sanitar GOOGLE
+Romanov Vikentij 77017333190 Astrahan 0 9 9 1974
+Frolov Viktor 77787683377 Balahna 1 Volonter MIT
+Solovev Veniamin 79032478845 Azov 1 Programmist CRB
+Korolev Vasilij 77715797822 Arhangelsk 0 20 12 1993
+Lebedev Vladlen 79021100099 Achinsk 1 Vrach MIT
+Sergeev Vasilij 77057163877 Azov 0 7 4 1997
+Smirnov Vladlen 77715797822 Achinsk 1 Vrach UFC
+Kozlov Vlad 77787483377 Almetevsk 1 Programmist YANDEX
+Romanov Vyacheslav 79021100099 Astrahan 1 Uchitel GOOGLE
+Vasilev Viktor 77772955554 Armavir 1 Santehnik BOMONKA
+Kuzmin Vyacheslav 77077799795 Achinsk 0 16 9 2009
+Kozlov Valentin 77715797822 Azov 1 Vrach BMSTU
+Petrov Vikentij 77017333190 Angarsk 0 1 7 1963
+Egorov Vladimir 79032480839 Almetevsk 0 25 12 1998
+Stepanov Vissarion 77715797822 Abakan 1 Vrach BMSTU
+Novikov Valentin 77074909644 Angarsk 1 Santehnik MIT
+Petrov Vasilij 77019381234 Aleksin 1 Programmist BOMONKA
+Vasilev Vladimir 79032478845 Balahna 1 Sanitar GOOGLE
+Volkov Vilen 77770076877 Arhangelsk 1 Vrach UFC
+Pavlov Vyacheslav 77027773690 Armavir 0 16 1 2018
+Vorobev Vissarion 77770076977 Armavir 0 27 10 2013
+Nikolaev Voldemar 77077799795 Armavir 1 Vrach CRB
+Zajcev Viktor 79021100098 Arhangelsk 0 23 8 1977
+Korolev Vladimir 77715797822 Angarsk 1 Vrach MIT
+Romanov Veniamin 77019381234 Armavir 0 29 4 1967
+Zaharov Vissarion 77772955554 Apatity 1 Santehnik BMSTU
+Nikitin Vladlen 77770076877 Apatity 0 12 4 1958
+Dmitriev Vladislav 77074909644 Azov 0 1 7 1973
+Mihajlov Voldemar 77770076977 Achinsk 1 Santehnik GOOGLE
+Novikov Vissarion 79021100099 Almetevsk 0 15 2 1996
+Nikolaev Vikentij 79021100099 Anapa 0 5 11 2007
+Gusev Vissarion 77019381234 Angarsk 1 Volonter GOOGLE
+Sergeev Vikentij 77772955554 Balahna 1 Santehnik UFC
+Grigorev Vladislav 79021100147 Almetevsk 1 Slesar ICPP
+Kuzmin Valerij 79032478917 Balahna 1 Santehnik GOOGLE
+Stepanov Valerij 77714927700 Aleksandrov 0 13 6 2009
+Kuznecov Vlad 79032478845 Aleksin 0 10 11 1992
+Kuzmin Vitalij 77077799795 Astrahan 0 24 9 1977
+YAkovlev Vikentij 77715740077 Arhangelsk 1 Slesar UFC
+Popov Vladislav 77772955554 Achinsk 0 21 12 1996
+Andreev Vlad 77079517777 Apatity 0 19 7 1977
+Frolov Veniamin 77770076877 Asbest 1 Sanitar ICPP
+Novikov Vitalij 77772955554 Arhangelsk 0 29 7 2006
+Dmitriev Vladislav 79021100098 Arhangelsk 0 30 7 1953
+Semenov Vitalij 77715797822 Astrahan 0 21 2 2003
+Morozov Vlad 77787683377 Balahna 1 Programmist YANDEX
+Borisov Vlad 77772955554 Asbest 0 7 11 1972
+Frolov Valerij 77772955554 Aleksin 0 4 11 1957
+Egorov Vikentij 77027773690 Astrahan 0 6 8 2019
+Pavlov Vsevolod 79032478845 Angarsk 0 13 1 1970
+Grigorev Vasilij 77017333190 Apatity 1 Vrach BMSTU
+Makarov Vitalij 77715740077 Abakan 1 Uchitel ICPP
+Zaharov Veniamin 77079517777 Achinsk 1 Vrach UFC
+Kuzmin Voldemar 77714927700 Aleksin 0 8 5 2006
+Smirnov Viktor 77772955554 Abakan 0 21 3 1988
+Mihajlov Vitalij 77074909644 Anapa 1 Santehnik CRB
+Andreev Viktor 79021100147 Abakan 0 18 6 1997
+Andreev Viktor 77715797822 Armavir 0 5 4 1993
+Lebedev Vitalij 79021100099 Arhangelsk 1 Slesar ICPP
+Grigorev Vlad 77027773690 Anapa 0 9 5 2012
+Gusev Vladlen 77079517777 Armavir 0 21 1 1984
+Petrov Vikentij 79021100147 Aleksandrov 0 20 11 1996
+Mihajlov Vladlen 77714927700 Balakovo 0 23 6 1953
+Nikolaev Voldemar 77770076877 Aleksandrov 0 11 11 2017
+Fedorov Vlad 77714927700 Arzamas 1 Slesar BOMONKA
+Morozov Vsevolod 79032478979 Balakovo 0 8 6 1968
+Orlov Vlad 77057163877 Angarsk 0 19 1 1995
+Nikitin Vlad 77074909644 Arzamas 0 15 4 1986
+Borisov Vsevolod 77715797822 Azov 0 12 5 1954
+Volkov Voldemar 77714927700 Armavir 1 Slesar BOMONKA
+Sokolov Vlad 77715740077 Angarsk 1 Programmist BMSTU
+Popov Vilen 79021100098 Almetevsk 1 Sanitar YANDEX
+Morozov Vikentij 77079517777 Angarsk 1 Santehnik BMSTU
+YAkovlev Valerij 77714927700 Almetevsk 0 25 1 1988
+Grigorev Vladislav 77715740077 Balahna 1 Volonter ICPP
+Zaharov Vadim 79032478917 Abakan 1 Slesar MIT
+Zaharov Vladlen 79032478979 Arhangelsk 0 10 10 1988
+Gusev Vitalij 77074909644 Almetevsk 0 1 9 1965
+Mihajlov Viktor 77770076877 Balakovo 0 12 4 1968
+Fedorov Vladlen 77787483377 Apatity 1 Santehnik BMSTU
+Egorov Veniamin 77772955554 Aleksandrov 1 Sanitar UFC
+Egorov Vasilij 79032478979 Asbest 1 Uchitel GOOGLE
+Sokolov Vsevolod 77074909644 Balahna 1 Vrach UFC
+Morozov Vladlen 79021100147 Azov 0 10 8 1993
+Stepanov Vasilij 77079517777 Almetevsk 0 22 7 1954
+Alekseev Vasilij 77770076877 Aleksin 1 Volonter MIT
+Andreev Valentin 77715797822 Balakovo 0 4 3 1957
+Nikitin Vilen 77017333190 Azov 0 20 12 1986
+Petrov Vladlen 77770076977 Asbest 1 Sanitar ICPP
+Nikolaev Voldemar 79021100147 Balakovo 1 Uchitel YANDEX
+Sokolov Vladimir 79032478917 Aleksandrov 0 15 1 1957
+Nikitin Valentin 77019381234 Azov 1 Slesar ICPP
+Pavlov Vissarion 77715797822 Anapa 0 15 7 1993
+YAkovlev Valentin 77770076877 Apatity 0 23 4 1950
+Aleksandrov Veniamin 77715740077 Azov 1 Slesar UFC
+Nikolaev Vadim 77017333190 Anapa 1 Programmist GOOGLE
+Lebedev Veniamin 77019381234 Aleksandrov 0 14 8 2003
+Novikov Vitalij 77017333190 Almetevsk 0 5 10 1959
+Dmitriev Vsevolod 77019381234 Aleksin 1 Santehnik MIT
+Ivanov Valerij 79032478845 Balakovo 0 28 12 2010
+Egorov Veniamin 79021100147 Armavir 0 10 3 1952
+YAkovlev Vadim 79021100147 Balahna 0 16 12 2007
+Egorov Veniamin 77017333190 Balahna 1 Slesar UFC
+Lebedev Valerij 77079517777 Armavir 1 Uchitel YANDEX
+Stepanov Vladislav 77074909644 Anapa 1 Uchitel CRB
+Kiselev Voldemar 77715740077 Angarsk 1 Volonter ICPP
+Aleksandrov Viktor 77770076977 Almetevsk 0 27 3 1984
+Aleksandrov Vasilij 77074909644 Arzamas 0 5 5 2014
+Zajcev Voldemar 77057163877 Arhangelsk 1 Vrach GOOGLE
+Romanov Vladimir 77019381234 Arhangelsk 1 Uchitel BOMONKA
+Kozlov Vilen 77770076877 Anapa 0 14 2 2020
+Nikolaev Vyacheslav 77057163877 Astrahan 1 Uchitel GOOGLE
+YAkovlev Vsevolod 77019381234 Apatity 1 Sanitar GOOGLE
+Frolov Veniamin 79021100098 Balakovo 1 Volonter BMSTU
+Stepanov Vladimir 77079517777 Aleksandrov 1 Volonter GOOGLE
+Novikov Voldemar 77715740077 Azov 0 1 10 2003
+Lebedev Vyacheslav 77772955554 Arhangelsk 1 Volonter CRB
+Fedorov Vitalij 79032478917 Armavir 1 Uchitel MIT
+Nikolaev Vissarion 77770076977 Arzamas 0 18 12 1996
+Lebedev Viktor 77077799795 Astrahan 1 Santehnik CRB
+Pavlov Vlad 79032478917 Azov 0 19 10 1961
+Solovev Viktor 77019381234 Aleksandrov 0 20 10 2004
+Kozlov Viktor 77079517777 Almetevsk 1 Vrach ICPP
+Popov Vlad 77079517777 Angarsk 1 Sanitar BMSTU
+Sokolov Vissarion 77787483377 Balakovo 0 10 11 2007
+YAkovlev Valentin 77715797822 Arhangelsk 0 5 4 2005
+Kuzmin Vilen 77017333190 Apatity 1 Santehnik CRB
+Nikolaev Vladimir 77715740077 Arzamas 1 Slesar BOMONKA
+Semenov Vladlen 77787683377 Arzamas 1 Volonter BMSTU
+Zajcev Valentin 77787483377 Achinsk 0 28 8 1973
+Borisov Vilen 77714927700 Balakovo 1 Programmist UFC
+Smirnov Vikentij 79021100099 Arhangelsk 1 Programmist GOOGLE
+Alekseev Vyacheslav 77077799795 Balakovo 0 11 10 1986
+Frolov Vikentij 77787483377 Achinsk 0 15 10 2005
+Popov Vadim 77714927700 Arzamas 1 Volonter BOMONKA
+Vasilev Veniamin 77770076977 Apatity 0 10 7 2001
+Gusev Vasilij 79032478917 Armavir 0 17 5 1982
+Ivanov Vladislav 77772955554 Azov 1 Santehnik BMSTU
+Zajcev Vladislav 77715797822 Abakan 0 6 4 2005
+Nikitin Vikentij 77027773690 Anapa 1 Slesar GOOGLE
+Solovev Viktor 77770076977 Abakan 0 26 11 1999
+Petrov Vissarion 77017333190 Apatity 0 28 1 2018
+Nikolaev Voldemar 79021100098 Apatity 1 Vrach ICPP
+Nikitin Viktor 79032478979 Aleksandrov 0 24 10 1976
+Lebedev Vladislav 77077799795 Almetevsk 1 Volonter CRB
+Morozov Veniamin 77770076977 Balahna 0 29 10 1978
+Korolev Vikentij 79032480839 Apatity 0 18 2 2001
+Sergeev Vitalij 77074909644 Almetevsk 0 19 11 2001
+Orlov Vsevolod 77787483377 Abakan 1 Programmist UFC
+Lebedev Vilen 79032478917 Anapa 0 17 9 2011
+Grigorev Vladlen 77074909644 Balahna 1 Vrach ICPP
+Egorov Vilen 79021100099 Apatity 1 Santehnik GOOGLE
+Solovev Vladislav 79032478845 Balahna 0 4 2 1971
+Orlov Vsevolod 77079517777 Almetevsk 1 Uchitel BMSTU
+Fedorov Voldemar 77714927700 Asbest 0 13 10 2018
+YAkovlev Vikentij 77019381234 Anapa 1 Programmist ICPP
+Stepanov Vsevolod 77079517777 Balakovo 1 Programmist MIT
+Kiselev Valerij 79021100147 Azov 0 15 2 1966
+Frolov Vladimir 77079517777 Balahna 0 9 10 1956
+Nikitin Vsevolod 77772955554 Aleksandrov 0 26 1 1955
+Kozlov Vladislav 77074909644 Aleksandrov 0 16 2 1995
+Korolev Vilen 77057163877 Angarsk 1 Sanitar ICPP
+Pavlov Vitalij 77770076977 Balakovo 1 Sanitar UFC
+YAkovlev Vitalij 77772955554 Arzamas 1 Vrach UFC
+Ivanov Veniamin 77787483377 Astrahan 1 Programmist YANDEX
+Petrov Vsevolod 77057163877 Aleksandrov 1 Slesar YANDEX
+Makarov Vissarion 79021100147 Azov 0 9 6 1964
+Pavlov Vitalij 79032478845 Apatity 1 Slesar BOMONKA
+Grigorev Vladimir 77770076977 Azov 0 12 11 1974
+Vorobev Vasilij 79032480839 Armavir 1 Slesar YANDEX
+Frolov Vladlen 77715740077 Apatity 1 Vrach BMSTU
+Romanov Vitalij 77079517777 Astrahan 0 19 12 2013
+Zajcev Vasilij 77027773690 Anapa 1 Slesar MIT
+Gusev Vladislav 77715740077 Aleksin 0 1 9 1952
+Vorobev Vitalij 77772955554 Aleksandrov 0 20 10 1957
+Nikolaev Vadim 77770076977 Apatity 0 25 2 2007
+Kuzmin Vlad 77715797822 Balakovo 1 Uchitel UFC
+Zaharov Valerij 79032478845 Azov 1 Volonter YANDEX
+Alekseev Valentin 77770076977 Achinsk 0 17 10 2019
+Nikitin Viktor 79032478845 Apatity 0 16 9 1998
+Kiselev Vladimir 79032478845 Angarsk 1 Sanitar BMSTU
+Kiselev Vladislav 77079517777 Apatity 1 Slesar BMSTU
+Nikolaev Vilen 77074909644 Arzamas 0 1 11 1968
+Novikov Voldemar 79032478979 Arhangelsk 1 Sanitar BMSTU
+Sokolov Vilen 77770076977 Armavir 0 18 4 1987
+Semenov Vladlen 79021100099 Achinsk 1 Santehnik UFC
+Alekseev Vyacheslav 79032478979 Asbest 0 8 5 1986
+Solovev Veniamin 77074909644 Aleksin 0 20 5 1976
+Popov Vladislav 79032478979 Abakan 1 Volonter YANDEX
+Nikolaev Vladlen 79021100099 Aleksandrov 0 6 2 2017
+Petrov Vadim 77714927700 Balakovo 1 Programmist MIT
+YAkovlev Valentin 77077799795 Asbest 1 Slesar ICPP
+Lebedev Vladlen 79032480839 Azov 1 Programmist GOOGLE
+Sokolov Valentin 77017333190 Asbest 0 15 11 2008
+Smirnov Vlad 77787483377 Azov 0 6 8 1953
+Borisov Vladimir 79032478845 Abakan 1 Santehnik GOOGLE
+Smirnov Vadim 77770076977 Balakovo 1 Vrach YANDEX
+Kuzmin Valentin 77772955554 Anapa 1 Slesar BOMONKA
+Sokolov Vikentij 77079517777 Arzamas 0 15 5 1951
+Egorov Vladislav 77770076977 Almetevsk 0 21 2 2019
+Dmitriev Vissarion 77074909644 Apatity 1 Slesar CRB
+Popov Vasilij 77714927700 Angarsk 0 29 6 2008
+Pavlov Valentin 79021100147 Balakovo 0 3 8 2007
+Makarov Vikentij 77019381234 Aleksin 0 18 5 1958
+Popov Vissarion 79032478979 Astrahan 1 Santehnik BOMONKA
+Korolev Vlad 77714927700 Abakan 0 12 8 2015
+Fedorov Vladlen 77770076877 Azov 0 14 2 1990
+Lebedev Veniamin 77057163877 Astrahan 0 2 10 2002
+Vasilev Vilen 77787483377 Arzamas 1 Santehnik MIT
+Volkov Valerij 77057163877 Anapa 0 3 10 2002
+Aleksandrov Vitalij 77715797822 Azov 0 25 6 1960
+Dmitriev Vsevolod 77057163877 Angarsk 0 24 4 1989
+Mihajlov Vlad 79021100098 Azov 0 12 8 1986
+Ivanov Vladlen 77074909644 Arzamas 1 Programmist BMSTU
+Stepanov Vilen 79021100147 Aleksandrov 1 Volonter UFC
+Nikitin Vasilij 77770076977 Aleksandrov 1 Uchitel MIT
+Kuznecov Vissarion 77017333190 Almetevsk 0 4 12 1968
+Solovev Viktor 77079517777 Balahna 1 Slesar BMSTU
+Alekseev Valentin 79021100098 Balahna 0 5 5 1975
+Korolev Vsevolod 77772955554 Aleksandrov 0 2 3 1977
+Popov Vadim 77770076877 Apatity 0 20 5 1970
+Fedorov Vladimir 79032480839 Apatity 0 9 9 1996
+Vorobev Veniamin 79032478917 Apatity 0 4 4 1974
+Zajcev Valentin 77787683377 Apatity 1 Vrach BMSTU
+Grigorev Viktor 77057163877 Arzamas 0 27 1 1996
+Kuznecov Vladimir 77770076877 Balakovo 0 3 3 2006
+Dmitriev Vilen 79021100098 Almetevsk 0 6 8 2006
+Gusev Voldemar 79021100099 Astrahan 0 18 1 1999
+Vasilev Vitalij 79021100098 Armavir 1 Sanitar GOOGLE
+Zajcev Vasilij 79021100098 Balahna 1 Santehnik ICPP
+Ivanov Vladislav 79032480839 Asbest 0 26 7 1964
+Smirnov Viktor 77019381234 Asbest 1 Slesar UFC
+Lebedev Vadim 77714927700 Armavir 0 22 7 1986
+Romanov Vilen 77787483377 Balahna 0 29 1 1978
+Andreev Vikentij 77017333190 Aleksin 1 Slesar GOOGLE
+Ivanov Vyacheslav 77017333190 Balahna 1 Sanitar CRB
+Morozov Vlad 77787683377 Asbest 1 Santehnik CRB
+Smirnov Veniamin 77770076877 Arhangelsk 0 22 5 1996
+Frolov Vissarion 77770076977 Arhangelsk 0 12 3 1978
+Volkov Valerij 79032478979 Aleksandrov 1 Sanitar BOMONKA
+Sergeev Vasilij 79021100098 Arzamas 1 Vrach GOOGLE
+Smirnov Vladlen 79021100147 Asbest 1 Vrach MIT
+Kuzmin Vlad 77715797822 Astrahan 0 25 7 1982
+Fedorov Viktor 79032478979 Azov 1 Slesar ICPP
+Dmitriev Vyacheslav 77715797822 Abakan 1 Uchitel MIT
+Orlov Vsevolod 77787683377 Almetevsk 1 Slesar ICPP
+Sergeev Vladimir 79032480839 Balakovo 0 27 10 2001
+Orlov Valentin 77715797822 Armavir 1 Volonter YANDEX
+Sergeev Vlad 77017333190 Anapa 0 23 5 2004
+Semenov Vyacheslav 77772955554 Azov 1 Uchitel BOMONKA
+YAkovlev Vitalij 77787483377 Azov 0 24 9 1958
+Novikov Vsevolod 79032480839 Anapa 1 Sanitar BMSTU
+Alekseev Vissarion 77074909644 Arzamas 1 Vrach BOMONKA
+Borisov Vissarion 77077799795 Astrahan 1 Sanitar MIT
+Kozlov Veniamin 77787483377 Almetevsk 0 21 9 1982
+Grigorev Vladlen 77079517777 Almetevsk 0 6 4 1955
+Frolov Vladlen 79032478917 Aleksandrov 1 Sanitar CRB
+Mihajlov Vsevolod 79032480839 Anapa 1 Slesar YANDEX
+Aleksandrov Vitalij 77715740077 Azov 1 Sanitar BMSTU
+Egorov Vlad 77715797822 Almetevsk 0 10 12 2010
+Frolov Vladlen 79032478917 Azov 1 Programmist BMSTU
+Semenov Vissarion 79032478845 Arhangelsk 1 Volonter CRB
+Semenov Vladislav 77787683377 Arhangelsk 0 24 12 2019
+Borisov Vasilij 77074909644 Angarsk 1 Volonter BOMONKA
+Volkov Vyacheslav 77715797822 Angarsk 1 Uchitel MIT
+Kuznecov Vikentij 77079517777 Azov 1 Sanitar UFC
+Novikov Viktor 79032480839 Almetevsk 0 26 7 1959
+Alekseev Vsevolod 77027773690 Balahna 0 20 3 1956
+Grigorev Vadim 77027773690 Arhangelsk 0 8 6 1968
+Sergeev Vikentij 77074909644 Abakan 1 Uchitel GOOGLE
+Grigorev Vlad 77079517777 Balahna 0 24 10 1967
+Dmitriev Vladimir 77079517777 Astrahan 1 Slesar BOMONKA
+Dmitriev Vladimir 79032478979 Almetevsk 1 Slesar MIT
+Kozlov Valentin 77770076977 Balahna 1 Volonter UFC
+Grigorev Vladislav 77077799795 Aleksin 1 Volonter UFC
+Kuzmin Vladimir 77079517777 Angarsk 0 21 7 1955
+Borisov Vladimir 77074909644 Achinsk 1 Santehnik UFC
+Vorobev Vadim 77019381234 Abakan 1 Santehnik GOOGLE
+Egorov Voldemar 77019381234 Anapa 0 14 11 2018
+Semenov Vladislav 77074909644 Apatity 0 15 7 1990
+Dmitriev Vissarion 79032480839 Arzamas 0 17 10 2005
+Morozov Vlad 79032478979 Armavir 0 15 10 1970
+Alekseev Viktor 77770076977 Abakan 0 13 6 1955
+Gusev Valerij 77714927700 Aleksin 0 28 3 2018
+Frolov Vadim 77017333190 Arhangelsk 1 Programmist MIT
+Andreev Vladlen 77714927700 Asbest 1 Programmist YANDEX
+Gusev Vladimir 79032480839 Anapa 0 20 7 1985
+Sokolov Vladislav 77715797822 Apatity 0 1 7 1955
+Kozlov Valerij 77715797822 Arhangelsk 1 Volonter ICPP
+Frolov Vsevolod 77077799795 Abakan 0 11 4 1987
+Zajcev Vikentij 77787483377 Azov 1 Uchitel BMSTU
+Mihajlov Vladislav 79021100099 Abakan 0 14 4 1981
+Sokolov Valerij 77074909644 Azov 0 30 2 1967
+Nikitin Valerij 77772955554 Aleksandrov 1 Volonter YANDEX
+Lebedev Voldemar 77787483377 Aleksandrov 0 13 11 2020
+Alekseev Vladislav 79032478845 Apatity 1 Uchitel CRB
+Sokolov Veniamin 77770076977 Abakan 1 Programmist BMSTU
+Kuzmin Voldemar 79021100098 Angarsk 0 30 1 2014
+Orlov Veniamin 77079517777 Anapa 1 Slesar MIT
+Frolov Vladislav 77057163877 Anapa 0 7 10 2007
+Ivanov Vilen 79032478845 Arhangelsk 0 15 10 1970
+Borisov Viktor 77787483377 Achinsk 0 18 8 2001
+Smirnov Voldemar 77017333190 Achinsk 1 Vrach UFC
+Kozlov Voldemar 77787483377 Balakovo 1 Sanitar GOOGLE
+Morozov Vasilij 77772955554 Azov 1 Volonter GOOGLE
+Novikov Vladislav 77787483377 Angarsk 1 Sanitar YANDEX
+Romanov Valerij 77715797822 Balahna 1 Santehnik BOMONKA
+Stepanov Vikentij 77715740077 Asbest 1 Slesar BMSTU
+Frolov Vissarion 77027773690 Armavir 1 Volonter GOOGLE
+Solovev Valerij 77787483377 Aleksin 0 18 2 1967
+Novikov Vsevolod 79021100147 Arhangelsk 1 Slesar ICPP
+Stepanov Vlad 77017333190 Arhangelsk 0 6 8 2002
+Egorov Vladimir 77027773690 Armavir 1 Santehnik ICPP
+Borisov Valentin 77787483377 Achinsk 0 9 5 1997
+Grigorev Vladimir 79021100147 Arzamas 0 21 4 1996
+Gusev Vilen 79032478979 Astrahan 0 9 9 1958
+Korolev Voldemar 77715740077 Balakovo 0 14 6 2018
+Kozlov Vilen 77017333190 Arzamas 0 13 5 1983
+Frolov Vyacheslav 77770076877 Anapa 0 29 10 2006
+Vasilev Viktor 77019381234 Astrahan 1 Programmist BMSTU
+Nikitin Voldemar 77715797822 Achinsk 1 Sanitar GOOGLE
+Sokolov Vitalij 79021100099 Abakan 0 6 7 1965
+Popov Vladimir 77715740077 Aleksin 0 25 6 1981
+Aleksandrov Valerij 77077799795 Balakovo 0 4 5 1990
+Sokolov Vladlen 77787483377 Astrahan 0 5 2 1971
+Frolov Vitalij 79032478917 Armavir 1 Uchitel GOOGLE
+Petrov Vilen 77079517777 Aleksandrov 0 27 9 1958
+Pavlov Vladislav 79021100098 Arhangelsk 1 Sanitar GOOGLE
+Mihajlov Veniamin 77770076877 Balakovo 0 10 8 2016
+Sergeev Vissarion 79021100099 Azov 1 Programmist YANDEX
+Kuzmin Vasilij 77077799795 Aleksandrov 0 6 6 2005
+Korolev Valerij 79021100099 Arhangelsk 1 Sanitar UFC
+Aleksandrov Vasilij 77715740077 Anapa 0 25 10 2008
+Fedorov Vilen 79021100099 Azov 0 7 5 1969
+Zaharov Valerij 77787483377 Asbest 1 Programmist BMSTU
+Semenov Vladimir 79032478845 Abakan 0 1 8 1962
+Kozlov Vladimir 77019381234 Armavir 1 Uchitel ICPP
+Zajcev Vilen 77772955554 Arhangelsk 0 18 4 2012
+Romanov Vissarion 77715797822 Azov 0 25 8 1963
+Solovev Vladimir 77079517777 Astrahan 1 Volonter YANDEX
+Sokolov Vadim 77787483377 Angarsk 1 Uchitel ICPP
+Korolev Vitalij 77057163877 Balahna 1 Uchitel BMSTU
+Kiselev Viktor 79021100099 Aleksandrov 0 19 9 1981
+Dmitriev Vladimir 77057163877 Apatity 0 10 2 2010
+Sergeev Vladislav 79032478979 Balahna 0 9 10 1998
+Semenov Vadim 77715797822 Anapa 0 11 9 1965
+Borisov Valerij 77772955554 Almetevsk 0 30 11 2012
+Dmitriev Voldemar 77715797822 Arhangelsk 0 11 7 1964
+Petrov Vissarion 77714927700 Asbest 0 6 2 2017
+Vorobev Vladlen 77787483377 Aleksandrov 1 Uchitel GOOGLE
+Korolev Vadim 77772955554 Angarsk 0 22 2 2000
+Alekseev Vladislav 79032480839 Achinsk 1 Slesar YANDEX
+Petrov Vyacheslav 79021100098 Aleksandrov 0 14 8 1975
+Alekseev Vitalij 79021100099 Astrahan 0 26 12 1983
+Kozlov Vasilij 79021100099 Achinsk 0 25 7 1997
+Lebedev Vyacheslav 77715740077 Arhangelsk 1 Vrach BOMONKA
+Novikov Vadim 79032480839 Armavir 1 Uchitel MIT
+Vasilev Voldemar 77017333190 Aleksin 0 9 12 1992
+Kiselev Viktor 77714927700 Angarsk 1 Vrach YANDEX
+Volkov Voldemar 79021100098 Almetevsk 1 Uchitel GOOGLE
+Ivanov Vasilij 79032478917 Balahna 0 5 7 2004
+Petrov Vikentij 79021100098 Arhangelsk 1 Slesar MIT
+Egorov Valerij 77770076877 Apatity 1 Sanitar MIT
+Korolev Vilen 77770076977 Abakan 0 24 2 1979
+Grigorev Vladimir 77787483377 Aleksandrov 1 Slesar GOOGLE
+Pavlov Valerij 79021100098 Almetevsk 1 Sanitar YANDEX
+Nikolaev Vyacheslav 79021100147 Almetevsk 1 Santehnik UFC
+Gusev Vsevolod 77027773690 Astrahan 0 25 2 2014
+Volkov Vladislav 79032478845 Arhangelsk 0 6 5 1983
+Fedorov Vilen 79021100147 Astrahan 1 Vrach BOMONKA
+Stepanov Vadim 79021100147 Arzamas 1 Slesar CRB
+Romanov Vitalij 77079517777 Anapa 1 Santehnik BOMONKA
+Novikov Vitalij 77772955554 Arzamas 0 14 9 2020
+YAkovlev Veniamin 79032478917 Balakovo 0 5 3 2004
+Zajcev Voldemar 77770076977 Azov 0 23 4 1995
+Makarov Vsevolod 77077799795 Anapa 0 18 7 1970
+Novikov Vyacheslav 77017333190 Azov 1 Sanitar BMSTU
+Lebedev Vyacheslav 77770076977 Arzamas 0 29 7 1992
+Fedorov Vasilij 77017333190 Aleksandrov 0 28 4 2013
+Sergeev Vlad 77787483377 Angarsk 1 Sanitar ICPP
+Borisov Valentin 77057163877 Almetevsk 0 28 6 1978
+Popov Vikentij 79032478979 Aleksandrov 1 Sanitar GOOGLE
+Morozov Vadim 79032480839 Aleksandrov 1 Uchitel GOOGLE
+Sergeev Veniamin 77077799795 Achinsk 1 Santehnik UFC
+Semenov Veniamin 79032480839 Armavir 1 Sanitar YANDEX
+Semenov Vladlen 77770076877 Almetevsk 0 30 6 1953
+Popov Vladimir 77787483377 Balahna 0 12 10 2012
+Nikitin Vadim 79032478979 Balakovo 1 Volonter ICPP
+YAkovlev Vadim 79032478979 Balahna 0 29 6 1950
+Fedorov Vasilij 79021100099 Angarsk 1 Programmist ICPP
+Zaharov Vitalij 77714927700 Anapa 0 1 4 1973
+Nikolaev Vitalij 77027773690 Abakan 1 Uchitel MIT
+Vasilev Vitalij 77057163877 Almetevsk 1 Uchitel BMSTU
+Semenov Vyacheslav 77715797822 Arhangelsk 1 Vrach CRB
+Kuzmin Vladlen 79032478845 Aleksin 1 Programmist CRB
+Fedorov Vissarion 79021100098 Balakovo 1 Volonter UFC
+Sokolov Vladlen 79021100098 Aleksandrov 1 Vrach BOMONKA
+Dmitriev Viktor 77770076977 Anapa 0 13 2 1993
+Gusev Vilen 77027773690 Balahna 0 2 1 1978
+Egorov Vasilij 77057163877 Astrahan 1 Slesar UFC
+Alekseev Vladimir 77074909644 Aleksandrov 0 5 6 1960
+Makarov Valerij 79021100098 Achinsk 0 27 8 1972
+Solovev Vissarion 77019381234 Azov 0 24 10 1997
+Mihajlov Vadim 77772955554 Asbest 1 Santehnik GOOGLE
+Andreev Veniamin 79032478845 Arzamas 0 11 2 1952
+Novikov Vadim 77770076977 Achinsk 1 Slesar BOMONKA
+Romanov Vladislav 79032478979 Astrahan 1 Volonter YANDEX
+Romanov Vsevolod 79032478979 Achinsk 1 Santehnik ICPP
+Frolov Vlad 77027773690 Asbest 1 Vrach YANDEX
+Stepanov Vasilij 77787683377 Asbest 0 16 12 1984
+Petrov Valerij 77019381234 Aleksin 0 29 6 1977
+YAkovlev Voldemar 77027773690 Arhangelsk 1 Programmist BOMONKA
+Pavlov Vsevolod 77787483377 Balakovo 1 Slesar CRB
+Nikolaev Vladimir 79032478917 Arhangelsk 1 Vrach MIT
+Frolov Vyacheslav 79032478845 Anapa 0 17 3 2019
+Alekseev Viktor 77017333190 Arhangelsk 0 4 5 1970
+Frolov Vlad 77770076977 Aleksandrov 0 19 2 1995
+Andreev Vitalij 77714927700 Achinsk 1 Vrach ICPP
+Stepanov Vitalij 77017333190 Aleksin 1 Vrach BOMONKA
+Smirnov Veniamin 79032478917 Anapa 0 3 11 2020
+Kuznecov Vladlen 79021100099 Azov 1 Uchitel YANDEX
+Smirnov Valerij 79021100099 Achinsk 0 20 7 1980
+Novikov Viktor 77715797822 Achinsk 0 15 8 1991
+Nikitin Vissarion 77074909644 Armavir 0 20 12 1973
+Frolov Viktor 77019381234 Achinsk 1 Santehnik CRB
+Smirnov Veniamin 79032480839 Arzamas 1 Volonter BMSTU
+Makarov Vissarion 77077799795 Asbest 0 11 4 1971
+Frolov Vasilij 77715797822 Arhangelsk 0 28 3 1995
+Borisov Vilen 79021100098 Aleksandrov 0 25 12 1966
+Sokolov Vsevolod 77772955554 Astrahan 0 3 8 2017
+YAkovlev Vladislav 77772955554 Balahna 1 Volonter BOMONKA
+Ivanov Vasilij 79032480839 Angarsk 1 Uchitel MIT
+Morozov Vladimir 77714927700 Almetevsk 0 2 1 1986
+Mihajlov Vladlen 77770076877 Aleksin 1 Uchitel GOOGLE
+Orlov Voldemar 77027773690 Abakan 0 14 12 1986
+Stepanov Voldemar 79021100099 Almetevsk 0 1 9 1976
+Dmitriev Vlad 79032478979 Asbest 1 Uchitel CRB
+Sokolov Valerij 77077799795 Balakovo 0 27 7 1965
+Kozlov Vlad 77074909644 Balakovo 1 Santehnik YANDEX
+Fedorov Vasilij 77770076977 Balahna 1 Vrach BOMONKA
+Kiselev Valerij 77772955554 Abakan 0 4 12 1964
+Morozov Vilen 79032480839 Anapa 0 1 7 1957
+Korolev Vadim 79021100098 Abakan 0 10 8 1987
+Dmitriev Vyacheslav 77714927700 Aleksandrov 1 Sanitar UFC
+Zaharov Valentin 77787683377 Balahna 0 16 8 2017
+Kiselev Veniamin 77787483377 Arzamas 0 21 1 1974
+Andreev Vikentij 77787683377 Achinsk 0 1 2 2004
+Sergeev Vsevolod 79032478845 Abakan 0 19 11 1989
+Kuzmin Veniamin 77772955554 Almetevsk 0 17 4 1952
+Novikov Vadim 77074909644 Aleksin 0 13 6 1964
+Lebedev Vasilij 79021100099 Balakovo 1 Slesar UFC
+Petrov Vikentij 77715797822 Azov 1 Santehnik CRB
+Ivanov Vadim 77787683377 Apatity 1 Vrach YANDEX
+Solovev Veniamin 77772955554 Azov 0 6 9 2006
+Gusev Vissarion 77770076877 Angarsk 1 Volonter GOOGLE
+Borisov Vladlen 77714927700 Azov 0 13 7 2014
+Sergeev Vladlen 77019381234 Balakovo 1 Sanitar BOMONKA
+Sergeev Vikentij 77715740077 Aleksin 1 Volonter CRB
+Ivanov Valerij 77714927700 Armavir 0 16 10 1991
+Grigorev Vladislav 77770076877 Balakovo 0 20 7 2012
+Aleksandrov Vitalij 77787483377 Aleksin 0 1 8 2014
+Popov Valentin 79032480839 Balakovo 1 Vrach ICPP
+Kuznecov Valerij 77079517777 Anapa 1 Santehnik UFC
+Zajcev Veniamin 77770076877 Balakovo 1 Programmist BMSTU
+Lebedev Vikentij 79021100147 Almetevsk 1 Volonter MIT
+Kuzmin Vilen 77057163877 Azov 1 Sanitar BMSTU
+Sergeev Vsevolod 77057163877 Aleksandrov 0 9 8 1973
+Kozlov Viktor 79032480839 Aleksin 1 Sanitar BMSTU
+Smirnov Vilen 79032478979 Anapa 1 Vrach MIT
+YAkovlev Vikentij 77017333190 Achinsk 0 1 3 2017
+Lebedev Vladislav 77770076977 Asbest 1 Uchitel BMSTU
+Smirnov Valentin 77715797822 Anapa 0 14 10 2004
+Aleksandrov Voldemar 77027773690 Armavir 0 17 2 1957
+Semenov Voldemar 77787483377 Abakan 1 Vrach CRB
+Andreev Vsevolod 77787483377 Asbest 0 30 11 1979
+Nikolaev Vlad 79032478917 Achinsk 1 Santehnik GOOGLE
+Vasilev Vyacheslav 77027773690 Angarsk 0 9 6 1961
+Egorov Vyacheslav 77770076877 Armavir 1 Santehnik YANDEX
+Frolov Valentin 77770076977 Asbest 0 3 7 2014
+Dmitriev Voldemar 77057163877 Balakovo 0 8 10 1998
+Sergeev Vlad 79021100147 Armavir 0 4 12 2017
+Popov Vyacheslav 79032478917 Azov 0 21 3 1975
+Smirnov Valerij 77027773690 Angarsk 0 10 7 1994
+Petrov Vladimir 77770076877 Balahna 1 Vrach ICPP
+Pavlov Vadim 79021100099 Armavir 1 Uchitel GOOGLE
+Orlov Viktor 77074909644 Astrahan 1 Santehnik UFC
+Vorobev Vasilij 79032478979 Armavir 1 Programmist MIT
+Smirnov Vladimir 79021100098 Anapa 0 26 12 1962
+Solovev Valentin 77027773690 Aleksandrov 0 21 9 2008
+Zaharov Vikentij 77772955554 Azov 0 15 12 1979
+Aleksandrov Veniamin 79032480839 Arzamas 1 Uchitel CRB
+Ivanov Voldemar 77017333190 Abakan 0 19 3 1992
+Zaharov Vadim 77770076977 Astrahan 1 Programmist BOMONKA
+Andreev Viktor 79021100147 Achinsk 0 11 11 2005
+Vasilev Vadim 77787683377 Abakan 1 Uchitel BMSTU
+Frolov Valentin 77715740077 Almetevsk 0 8 6 2018
+Alekseev Valerij 79032478845 Anapa 0 14 10 1965
+Borisov Vladimir 79032480839 Almetevsk 0 12 7 1959
+Volkov Vitalij 77770076877 Arhangelsk 0 25 1 2013
+YAkovlev Viktor 77715740077 Abakan 0 8 10 2015
+Kuzmin Voldemar 77057163877 Aleksin 1 Uchitel BMSTU
+Petrov Vikentij 77077799795 Achinsk 0 17 1 1979
+Smirnov Vikentij 77787683377 Abakan 1 Sanitar CRB
+Zajcev Valerij 77715797822 Achinsk 0 2 8 2000
+YAkovlev Valentin 77017333190 Arhangelsk 0 7 9 1964
+Kuzmin Vladimir 77057163877 Arzamas 0 9 9 1970
+Morozov Vitalij 77057163877 Astrahan 0 16 5 1992
+Frolov Vladislav 79021100099 Aleksin 1 Slesar BOMONKA
+Fedorov Vyacheslav 79032478845 Angarsk 1 Vrach BMSTU
+Zaharov Valentin 77027773690 Aleksin 1 Sanitar CRB
+Borisov Veniamin 77079517777 Armavir 1 Volonter UFC
+Lebedev Vilen 77074909644 Arzamas 1 Vrach CRB
+Makarov Vyacheslav 79032478845 Arhangelsk 0 1 11 1970
+Borisov Vladislav 77077799795 Anapa 0 18 2 1998
+Mihajlov Voldemar 79021100098 Almetevsk 1 Vrach YANDEX
+Lebedev Vlad 77077799795 Astrahan 0 2 12 2011
+Popov Vladislav 79032480839 Astrahan 1 Santehnik BOMONKA
+Dmitriev Veniamin 77787683377 Armavir 0 30 9 2008
+Kozlov Vladislav 77772955554 Anapa 1 Vrach MIT
+Lebedev Vladislav 79021100147 Angarsk 1 Programmist BOMONKA
+Fedorov Veniamin 79032478917 Aleksin 1 Santehnik GOOGLE
+Andreev Vasilij 79021100099 Armavir 0 14 1 1978
+Vorobev Vyacheslav 79032478917 Armavir 1 Santehnik UFC
+Kuznecov Vladislav 79032478979 Armavir 1 Vrach BMSTU
+Solovev Voldemar 77770076877 Arhangelsk 0 30 6 1954
+Andreev Valerij 77770076877 Asbest 1 Santehnik BOMONKA
+Lebedev Viktor 77787483377 Anapa 0 26 11 1962
+Kiselev Vladislav 77714927700 Balakovo 0 1 2 2005
+Dmitriev Vikentij 77077799795 Aleksandrov 1 Programmist YANDEX
+Egorov Voldemar 77715740077 Angarsk 1 Volonter YANDEX
+Zajcev Vissarion 77787683377 Armavir 1 Uchitel YANDEX
+Vorobev Vadim 79032478979 Arhangelsk 0 10 12 1956
+Stepanov Vadim 79032478917 Anapa 1 Programmist YANDEX
+Nikolaev Vitalij 77074909644 Aleksin 0 25 1 1978
+Andreev Valerij 77714927700 Anapa 0 13 2 1985
+Sokolov Viktor 77017333190 Arzamas 0 4 11 2001
+Sokolov Vilen 77714927700 Aleksin 1 Slesar YANDEX
+Nikitin Vlad 77770076877 Angarsk 1 Programmist BOMONKA
+Nikitin Viktor 77027773690 Anapa 0 27 3 2007
+Kuznecov Vasilij 77714927700 Balakovo 1 Programmist YANDEX
+Popov Viktor 79021100099 Aleksandrov 0 28 12 1966
+Vorobev Vladislav 77714927700 Balahna 0 29 11 1966
+Borisov Vladislav 77772955554 Balakovo 1 Volonter UFC
+Zajcev Vitalij 77057163877 Achinsk 0 2 9 1959
+Korolev Vladlen 77715740077 Almetevsk 0 19 4 1950
+Makarov Vsevolod 79032478845 Astrahan 1 Volonter GOOGLE
+Fedorov Voldemar 77019381234 Astrahan 1 Volonter CRB
+Pavlov Vlad 77770076977 Arhangelsk 1 Sanitar BMSTU
+Gusev Vitalij 77057163877 Achinsk 0 10 3 2013
+Zaharov Voldemar 77027773690 Apatity 1 Volonter UFC

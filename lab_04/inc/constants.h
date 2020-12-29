@@ -1,0 +1,19 @@
+#ifndef __CONSTANTS_H__
+
+#define __CONSTANTS_H__
+
+#define OK 0
+#define MEMORY_ALLOCATION_ERROR -1
+#define STACK_OVERFLOW -2
+#define STACK_UNDERFLOW -3
+#define STACK_EMPTY -4
+#define STACK_FILL_ERROR -5
+#define STACK_NUMBER_ERROR -6
+#define STACK_POP_NUMBER_ERROR -7
+#define MENU_NUMBER_ERROR -8
+
+#define INIT_TOP 0
+#define MAX_STACK_SIZE 2000
+#define MAX_LEN_ARRAY_FREE 100
+
+#endif // __CONSTANTS_H__
